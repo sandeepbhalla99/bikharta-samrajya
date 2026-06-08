@@ -1,0 +1,212 @@
+
+# विषाक्त विशेषज्ञता
+
+मिथक और दुष्प्रचार विशेषज्ञता से अत्यधिक लाभान्वित होते हैं।
+
+विशेषज्ञ सरकार, मीडिया, शिक्षा जगत और वित्त में पदों पर आसीन हैं। वे रणनीतिक प्रारूपों को चूकते हुए नीति विवरणों के बारे में आत्मविश्वास से बोलते हैं। वे विद्यमान व्यवस्थाओं की रक्षा करते हैं क्योंकि उन पर प्रश्न उठाना उनकी व्यावसायिक पहचान और आर्थिक सुरक्षा को खतरे में डालता है। उनका शिक्षा ऋण बोझ अनुपालन सुनिश्चित करता है।
+
+जो विशेषज्ञ स्थापित कथाओं को चुनौती देते हैं वे अपने करियर और छात्र ऋण चुकाने की क्षमता को जोखिम में डालते हैं। आर्थिक दबाव प्रत्यक्ष सेंसरशिप की तुलना में अधिक प्रभावी ढंग से बौद्धिक अनुरूपता उत्पन्न करता है। किंतु आर्थिक संचार के प्रति उचित और प्रभावी दृष्टिकोण के लिए वित्तीय घटनाओं या नीतिगत निर्णयों की व्याख्या करते समय सभी प्रासंगिक कारकों का पूर्ण, ईमानदार प्रकटीकरण आवश्यक है।
+
+मीडिया आउटलेट जो अर्थशास्त्र को कवर करते हैं, उन्हें विश्लेषणात्मक कठोरता की आवश्यकता है चाहे यह कथा को जटिल बनाए या शक्तिशाली संस्थाओं को चुनौती दे। आधुनिक मीडिया परिदृश्य, तथापि, विषाक्त विशेषज्ञों के लिए एक परिष्कृत संरक्षण व्यवस्था के रूप में संचालित होता है। यह विफल भविष्यवाणियों को जवाबदेही से बचाता है जबकि संस्थाओं में सार्वजनिक विश्वास नष्ट करता है। यह आकस्मिक पूर्वाग्रह नहीं है। यह योग्यता या ईमानदारी की परवाह किए बिना अभिजात शक्ति बनाए रखने के लिए अभिकल्पित सूचना युद्ध है।
+
+अमेरिका में विनिर्माण कंपनियाँ लाभांश चुकाते हुए हानि उठाती हैं। PE अनुपात चरम स्तरों पर पहुँचते हैं। वित्तीय अभियांत्रिकी असंभव प्रतिफल उत्पन्न करती है। Dow 700 प्रतिशत भुगतान अनुपात देता है। S&P 500 1929 दुर्घटना स्तरों से दोगुने PE अनुपात पर कारोबार करता है। अमेरिकी कंपनियाँ घर पर 19 प्रतिशत सट्टेबाजी के पीछे भागने के लिए भारत में उत्पादक 5 प्रतिशत प्रतिफल छोड़ देती हैं।
+
+सिद्धांतकारों को उन्हीं वित्तीय कंपनियों या प्रबंधन समूहों द्वारा भुगतान किया जाता है जिनका वे विश्लेषण करने वाले हैं। वे उस हाथ को नहीं काटेंगे जो उन्हें खिलाता है। वे बाजार दक्षता पर पेपर लिखते हैं जबकि बाजार ऐतिहासिक मानकों से 80 प्रतिशत ऊपर कारोबार करते हैं।
+
+---
+
+## संरक्षण की वास्तुकला
+
+मीडिया आउटलेट केवल समाचार रिपोर्ट नहीं करते। वे सावधानीपूर्वक कथा प्रबंधन के माध्यम से विश्वसनीयता बनाते और बनाए रखते हैं। जब उनके पसंदीदा अर्थशास्त्री विनाशकारी सलाह देते हैं, तो आउटलेट विफलताओं को स्वीकार नहीं करते। वे उन्हें सीखने के अनुभव के रूप में पुनः प्रस्तुत करते हैं या बाह्य कारकों को दोष देते हैं।
+
+भारत के RBI गवर्नर के रूप में रघुराम राजन के कार्यकाल पर विचार करें। पश्चिमी मीडिया ने लगातार उनके प्रशासन की प्रशंसा की। उन्हें प्रतिभाशाली कहा। एक सुधारक। अशांत समय में एक स्थिर हाथ। यह कथा खराब निर्णय के बढ़ते प्रमाणों के बावजूद बनी रही।
+
+भारत की स्वर्ण आयात नीति इस प्रारूप को पूरी तरह दर्शाती है। 21 मई 2014 को, काँग्रेस पार्टी के भारत के आम चुनाव में निर्णायक रूप से हारने के पाँच दिन बाद, राजन ने 80:20 स्वर्ण आयात योजना को मंजूरी दी। यह नियमित नीति क्रियान्वयन नहीं था। चुनाव परिणाम स्पष्ट थे। कुछ दिनों के भीतर एक नई सरकार सत्ता लेती। योजना ने स्वर्ण आयात को केवल 13 नामित व्यापार गृहों तक सीमित किया। इन कंपनियों के जाने वाले काँग्रेस प्रशासन के साथ स्थापित संबंध थे।
+
+जो हुआ वह विशाल पैमाने पर व्यवस्थित धोखाधड़ी थी। नामित व्यापार गृहों ने आयात का अधिक-चालान किया। उन्होंने मूल्यों को बढ़ाने के लिए दस्तावेजों में हेरफेर किया। धन-शोधन अभियानों ने नकली लेनदेनों के माध्यम से अरबों डॉलर स्थानांतरित किए। प्रवर्तन निदेशालय ने बाद में इन गतिविधियों की व्यापक जाँच की। अनेक गिरफ्तारियाँ हुईं।
+
+पश्चिमी मीडिया आउटलेट ने कभी इन बिंदुओं को नहीं जोड़ा। उन्होंने राजन के नीतिगत निर्णयों को टेक्नोक्रेटिक शासन के रूप में रिपोर्ट किया। उन्होंने समय को नजरअंदाज किया। उन्होंने धोखाधड़ी जाँच को छोड़ दिया।
+
+इसी प्रकार खाद्य सब्सिडी के बारे में, उन्होंने अनाज वितरण के बजाय प्रत्यक्ष नकद हस्तांतरण की माँग की। जब खाद्य सुरक्षा कार्यक्रम सफल साबित हुआ, उन्होंने उसी नीति की प्रशंसा शुरू कर दी जिसकी वे पहले आलोचना करते थे।
+
+यह विशेषज्ञता नहीं है। यह घरेलू नीतियों के तोड़फोड़ के प्रयासों के बावजूद सफल होने पर व्यवस्थित विरोध के बाद श्रेय चुराना है।
+
+---
+
+## भाषा हेरफेर
+
+मीडिया आउटलेट सावधानीपूर्वक तैयार की गई भाषा के माध्यम से संचालित होते हैं जो वास्तविकता को अस्पष्ट करती है। विफल भविष्यवाणियाँ विकसित होते दृष्टिकोण बन जाती हैं। विनाशकारी नीति सिफारिशों को बदलती परिस्थितियों के प्रति आवश्यक समायोजन के रूप में पुनः ब्रांड किया जाता है।
+
+पॉल क्रुगमैन एक आदर्श उदाहरण प्रदान करते हैं। 2013 में, उन्होंने आत्मविश्वास से भविष्यवाणी की कि भारत कभी प्रमुख विनिर्माण शक्ति नहीं बनेगा। उन्होंने तर्क दिया कि देश में औद्योगिक विकास के लिए आधारभूत संरचना और संस्थागत क्षमता का अभाव है। यह आकस्मिक टिप्पणी नहीं थी। यह प्रतिष्ठित आउटलेट में प्रकाशित एक निश्चित आर्थिक विश्लेषण था।
+
+भारत आगे बढ़कर विश्व का दूसरा सबसे बड़ा मोबाइल फोन निर्माता बन गया। अर्धचालक उत्पादन तेजी से विस्तृत हुआ। विनिर्माण निर्यात वर्ष-दर-वर्ष रिकॉर्ड स्तरों पर पहुँचा। क्रुगमैन की भविष्यवाणी शानदार रूप से गलत साबित हुई।
+
+क्या न्यूयॉर्क टाइम्स ने इस भविष्यवाणी विफलता को स्वीकार किया? कभी नहीं। उन्होंने उनकी टिप्पणी प्रकाशित करना जारी रखा बिना उनकी भारत भविष्यवाणी के संदर्भ के। कोई सुधार नहीं। कोई जवाबदेही नहीं।
+
+यह प्रारूप अंतहीन रूप से दोहराता है। लैरी समर्स ने 1990 के दशक में वित्तीय विनियमन-मुक्ति की वकालत की। उन्होंने आवास बुलबुलों और व्युत्पन्न जोखिमों के बारे में चेतावनियों को खारिज किया। जब 2008 के संकट ने उनके आलोचकों को सही साबित किया, मीडिया आउटलेट ने उनकी विचारधारा को दोष नहीं दिया। उन्होंने इसे एक अपूर्वदृश्य बाजार व्यवधान कहा।
+
+---
+
+## प्रतिध्वनि कक्ष सहमति
+
+मीडिया आउटलेट ने पाया कि वे भिन्न दर्शकों के लिए पृथक सूचना ब्रह्मांड बनाकर लाभ अधिकतम कर सकते हैं। रूढ़िवादी दर्शकों को रूढ़िवादी अर्थशास्त्री मिले। उदार दर्शकों ने उदार विश्लेषकों से सुना। प्रत्येक पक्ष को अपनी विद्यमान मान्यताओं की पुष्टि मिली।
+
+इस व्यापार प्रतिमान ने जवाबदेही को पूरी तरह समाप्त कर दिया। जब रूढ़िवादी अर्थशास्त्रियों ने गलत भविष्यवाणियाँ कीं, केवल उदार आउटलेट ने आलोचना की। रूढ़िवादी मीडिया ने विफलताओं को नजरअंदाज किया।
+
+Fox News इस गतिशीलता को पूरी तरह दर्शाता है। जब Trump 1.0 में Trump के व्यापार युद्धों ने अमेरिकी किसानों के लिए समस्याएँ उत्पन्न कीं, Fox ने पूरी तरह चीन को दोष दिया। उन्होंने कभी उल्लेख नहीं किया कि मुख्यधारा के अर्थशास्त्रियों ने ठीक इन परिणामों की भविष्यवाणी की थी।
+
+CNN विपरीत दिशा में समान रूप से संचालित होता है। जब Trump के राष्ट्रपतित्व के दौरान आर्थिक विकास में तेजी आई, उन्होंने Obama की नीतियों को श्रेय दिया।
+
+दोनों नेटवर्क अपने पसंदीदा स्रोतों को जवाबदेही से बचाते हैं। वे सूचना बुलबुले बनाते हैं जहाँ विफलताएँ गायब हो जाती हैं।
+
+---
+
+## वैश्विक जागरण
+
+सूचना नियंत्रण व्यवस्था के अमेरिकी मृदु शक्ति पर विनाशकारी परिणाम हुए। विश्वभर के देशों ने इन हेरफेर प्रारूपों को पहचानना शुरू किया। उन्होंने देखा कि अमेरिकी मीडिया ने उन अर्थशास्त्रियों को कैसे बचाया जिन्होंने उनकी अर्थव्यवस्थाओं को नुकसान पहुँचाया था। उन्होंने पश्चिमी अकादमिक सलाह पर पूरी तरह भरोसा करना बंद कर दिया।
+
+1997 के एशियाई वित्तीय संकट ने एक転換बिंदु चिह्नित किया। अमेरिकी अर्थशास्त्रियों ने प्रभावित देशों को अपने बाजार पूरी तरह खोलने के लिए कहा। मलेशिया ने इस सलाह को नजरअंदाज किया। उन्होंने इसके बजाय सख्त पूंजी नियंत्रण लागू किए। उनकी पुनर्प्राप्ति उन देशों की तुलना में तेजी से आई जिन्होंने अमेरिकी सिफारिशों का पालन किया।
+
+क्या अमेरिकी मीडिया ने मलेशिया की पुष्टि स्वीकार की? शायद ही। उन्होंने उन्हीं अर्थशास्त्रियों को प्रदर्शित करना जारी रखा जिन्होंने स्पष्ट रूप से खराब सलाह दी थी।
+
+जेफ्री सैक्स अपनी भारत के बारे में सकारात्मक राय के कारण भारतीय मीडिया में एक लोकप्रिय चेहरा हैं। किंतु उन्होंने 1990 के दशक में रूसी निजीकरण की सलाह दी थी। उनकी शॉक थेरेपी सिफारिशों ने कुलीनतंत्र और सामूहिक निर्धनता उत्पन्न की। वर्षों बाद सैक्स ने स्वयं स्वीकार किया कि रणनीति त्रुटिपूर्ण थी। किंतु क्षति स्थायी थी। रूस ने पश्चिमी सलाहकारों पर भरोसा न करना सीखा।
+
+चीन ने समान निष्कर्ष निकाले। वे वरिष्ठ पदों के लिए अमेरिकी-शिक्षित अर्थशास्त्री नियुक्त करते थे। यह देखने के बाद कि ये विश्लेषक चीनी विकास के बजाय अमेरिकी हितों को कैसे प्राथमिकता देते हैं, उन्होंने यह प्रथा बंद कर दी।
+
+भारत इस वैश्विक बदलाव का सबसे स्पष्ट उदाहरण प्रदान करता है। दशकों तक उन्होंने अमेरिकी-प्रशिक्षित केंद्रीय बैंक गवर्नर नियुक्त किए। राजन की विरोधाभासी सलाह और संदिग्ध स्वर्ण नीति निर्णयों ने इस प्रारूप को स्थायी रूप से तोड़ा।
+
+राजन के विनिर्माण रुख पर विचार करें। राजन ने लगातार भारत की औद्योगिक विकास योजनाओं का विरोध किया। उन्होंने तर्क दिया कि देश को विनिर्माण के बजाय सेवाओं पर ध्यान केंद्रित करना चाहिए। यह पश्चिमी रूढ़िवादिता के साथ पूरी तरह मेल खाता था जो विकासशील देशों को औद्योगिक प्रतिस्पर्धियों के बजाय सेवा प्रदाता के रूप में रखती है। जब मोदी सरकार ने इस सलाह को नजरअंदाज किया और किसी भी तरह विनिर्माण को आगे बढ़ाया, तो परिणामों ने उनके दृष्टिकोण को सही साबित किया। मोबाइल फोन उत्पादन में विस्फोट हुआ। अर्धचालक विनिर्माण आरंभ हुआ।
+
+राजन ने कैसे प्रतिक्रिया दी? उन्होंने उन्हीं नीतियों की प्रशंसा करना आरंभ किया जिनका वे पहले विरोध करते थे। भारतीय नीति-निर्माताओं ने इस हेरफेर को पूरी तरह देखा। उन्होंने शक्तिकांत दास को अगले RBI गवर्नर नियुक्त किया। दास ने भारत में अध्ययन किया। वे स्थानीय परिस्थितियों को समझते थे। उनका कार्यकाल किसी घोटाले से कलंकित नहीं हुआ।
+
+वैश्विक दक्षिण ने योग्यता के संकेतक के रूप में अमेरिकी अकादमिक प्रमाण-पत्रों पर भरोसा करना बंद कर दिया। उन्होंने संस्थागत संबद्धताओं के बजाय परिणामों के आधार पर सलाहकारों का मूल्यांकन करना आरंभ किया।
+
+---
+
+## सोशल मीडिया व्यवधान
+
+पारंपरिक मीडिया की द्वारपालक शक्ति सोशल मीडिया के उदय के साथ ढहने लगी। Twitter जैसे मंचों ने संपादकीय फ़िल्टरिंग के बिना प्रत्यक्ष सूचना साझाकरण की अनुमति दी। उपयोगकर्ता मूल दस्तावेज पोस्ट कर सकते थे। असंपादित फुटेज साझा कर सकते थे। वास्तविक समय में दावों की तथ्य-जाँच कर सकते थे।
+
+जब 2020 के चुनाव से पहले Hunter Biden लैपटॉप की कथा उभरी, पारंपरिक आउटलेट ने इसे दबाने के लिए समन्वय किया। उन्होंने बिना जाँच के इसे रूसी दुष्प्रचार कहा। बाद की जाँचों ने लैपटॉप को प्रामाणिक पुष्टि किया।
+
+COVID प्रयोगशाला रिसाव सिद्धांत समान प्रारूप दिखाता है। 2020 की शुरुआत में, प्रमुख आउटलेट ने इस संभावना को षड्यंत्र सिद्धांत के रूप में खारिज किया। सोशल मीडिया उपयोगकर्ताओं ने मंच सेंसरशिप के बावजूद जाँच जारी रखी। अंततः साक्ष्य ने प्रयोगशाला रिसाव सिद्धांत को विश्वसनीय बनाया।
+
+---
+
+## भ्रष्ट व्यापार प्रतिमान
+
+मीडिया विषाक्तता को समझने के लिए उन वित्तीय प्रोत्साहनों की जाँच आवश्यक है जो आउटलेट व्यवहार को संचालित करते हैं। समाचार संगठन पहले व्यवसाय के रूप में संचालित होते हैं। उन्हें विज्ञापन राजस्व चाहिए। सनसनीखेज कथाएँ उबाऊ सत्य की तुलना में अधिक क्लिक उत्पन्न करती हैं।
+
+वित्तीय मीडिया आउटलेट विशेष रूप से विकृत प्रोत्साहनों का सामना करते हैं। CNBC और Bloomberg को साक्षात्कारों और ताजा समाचारों के लिए वॉल स्ट्रीट कार्यकारियों तक पहुँच की आवश्यकता है। वे इन स्रोतों के बारे में बहुत आलोचनात्मक रिपोर्ट नहीं कर सकते बिना विशेष पहुँच खोए।
+
+फार्मास्यूटिकल कंपनियाँ समाचार कार्यक्रमों पर भारी विज्ञापन देती हैं। यह आउटलेट को दवा सुरक्षा मुद्दों की आक्रामक जाँच करने से हतोत्साहित करता है। रक्षा ठेकेदार समाचार शो को प्रायोजित करते हैं। यह सैन्य व्यय और विदेशी हस्तक्षेपों की कवरेज को प्रभावित करता है।
+
+---
+
+## जवाबदेही शून्य
+
+इराक युद्ध ने इस शून्य को पूरी तरह प्रदर्शित किया। प्रमुख आउटलेट ने पर्याप्त सत्यापन के बिना सामूहिक विनाश के हथियारों के दावों को बढ़ावा दिया। जब ये दावे असत्य साबित हुए, किसी पत्रकार की नौकरी नहीं गई। किसी संपादक को पदावनत नहीं किया गया।
+
+भारत में राजदीप सरदेसाई एक ऐसे पत्रकार हैं जो उनके बारे में फर्जी खबरें रिपोर्ट करने के लिए कम से कम पाँच माफीनामे देने के बाद भी व्यापार में हैं। उनके लिए या उन चैनलों के लिए कोई जवाबदेही नहीं जिनके लिए वे काम करते हैं।
+
+लैरी समर्स इस शून्य का उदाहरण हैं। उनकी विनियमन-मुक्ति वकालत ने 2008 के संकट में प्रत्यक्ष योगदान दिया। फिर भी उन्होंने संकट और पुनर्प्राप्ति के दौरान विश्लेषण के लिए जाने वाले अधिकारी के रूप में अपनी स्थिति बनाए रखी।
+
+---
+
+## हेरफेर की भाषा
+
+सोशल मीडिया उपयोगकर्ताओं ने उन विशिष्ट भाषा प्रारूपों को प्रलेखित करना आरंभ किया जो आउटलेट अक्षम स्रोतों को बचाने के लिए उपयोग करते हैं। उन्होंने मीडिया व्यंजनाभाषाओं का सरल अंग्रेजी में अनुवाद करने वाले शब्दकोश बनाए। "विचार विकसित हुए" का अर्थ था प्रारंभ में पूरी तरह गलत। "सूक्ष्म समझ" का अनुवाद था विरोधाभासी स्थितियाँ।
+
+उपयोगकर्ताओं ने इस हेरफेरकारी भाषा को प्रकट होते ही तुरंत बुलाना आरंभ किया। उन्होंने टिप्पणी धाराओं में प्रत्यक्ष अनुवाद प्रदान किए। उन्होंने साथ-साथ तुलनाएँ साझा कीं। अब AI उस प्रश्न पर इस चाल का उपयोग करता है जब असुविधाजनक सत्य के बारे में पूछा जाए।
+
+---
+
+## श्रद्धा का अंत
+
+सबसे गहरा परिवर्तन संस्थागत अधिकार के प्रति स्वचालित श्रद्धा के पतन में था। दशकों तक दर्शकों ने केवल इसलिए आउटलेट पर भरोसा किया क्योंकि वे स्थापित संगठन थे। सोशल मीडिया ने यह धारणा नष्ट की।
+
+उपयोगकर्ताओं ने केवल इसलिए दावों पर भरोसा करना बंद कर दिया क्योंकि वे प्रतिष्ठित आउटलेट में प्रकट हुए। उन्होंने प्राथमिक स्रोतों की माँग की। उन्होंने स्वतंत्र रूप से सूचना सत्यापित की। उन्होंने स्रोत अधिकार के बजाय साक्ष्य के आधार पर तर्कों का मूल्यांकन किया।
+
+जब उपयोगकर्ताओं ने अर्थशास्त्रियों का मूल्यांकन प्रमाण-पत्रों के बजाय परिणामों के आधार पर करना आरंभ किया, गलत भविष्यवाणियाँ अपना आवरण स्थायी रूप से खो गईं।
+
+---
+
+## भविष्य
+
+विषाक्त मीडिया युग समाप्त हो रहा है क्योंकि पारंपरिक द्वारपालक व्यवस्थाओं ने स्थायी रूप से विश्वसनीयता खो दी है। अधिकांश पारंपरिक समाचार पत्र अपनी बिक्री राजस्व खो रहे हैं, प्रायः हानि में चल रहे हैं।
+
+कृत्रिम बुद्धिमत्ता इस रूपांतरण को और तेज करेगी। उपयोगकर्ता व्यापक डेटाबेस का उपयोग करके तत्काल दावों की तथ्य-जाँच कर सकेंगे। ट्रैक रिकॉर्ड छुपाना असंभव हो जाएगा।
+
+पारंपरिक आउटलेट एक अस्तित्वगत चुनाव का सामना करते हैं। वे कट्टरपंथी पारदर्शिता और जवाबदेही के माध्यम से विश्वसनीयता पुनर्निर्माण कर सकते हैं। या वे अप्रासंगिक हो सकते हैं। यह मुद्रण यंत्र के आविष्कार के बाद से सूचना प्रणालियों में सबसे मूलभूत बदलाव है।
+
+यह रूपांतरण उन सभी को लाभान्वित करता है सिवाय उन समझौतावादी अभिजातों के जो मीडिया ढालों पर निर्भर थे। देशों को बेहतर नीतिगत सलाह मिलती है। नागरिकों को अधिक सटीक सूचना मिलती है। अर्थशास्त्रियों को उनकी भविष्यवाणियों और सिफारिशों के लिए वास्तविक जवाबदेही का सामना करना पड़ता है।
+
+सूचना लोकतंत्र का युग आरंभ हो गया है। यह इंटरनेट के सृजन के बाद से सबसे आशाजनक विकास है। यह पुस्तक प्रत्येक अध्याय के संदर्भ खंड में प्रदान किए गए सभी लिंक के बिना संभव नहीं होती।
+
+यह रूपांतरण अमेरिकी मृदु शक्ति को नाटकीय रूप से कम कर रहा है। देशों ने अपने घरेलू निर्णयों की पश्चिमी मीडिया आलोचना की परवाह करना बंद कर दिया। किंतु यह एकमात्र अमेरिकी मृदु शक्ति नहीं है जो फिसल रही है। अमेरिकी मृदु शक्ति के बारे में अधिक जानकारी अगले अध्याय में।
+
+
+
+
+
+**References**:
+
+1. Analysis of Paul Krugman’s warning about India facing mass unemployment without manufacturing growth (Scroll): [https://scroll.in/article/872851/economist-warns-india-of-mass-unemployment-if-manufacturing-sector-does-not-grow](https://scroll.in/article/872851/economist-warns-india-of-mass-unemployment-if-manufacturing-sector-does-not-grow "https://scroll.in/article/872851/economist-warns-india-of-mass-unemployment-if-manufacturing-sector-does-not-grow")
+    
+2. Report on Krugman’s concern over India’s “skill-intensive precocity” and structural imbalance in growth (Business Standard): [https://www.business-standard.com/article/economy-policy/precocious-growth-in-india-s-skill-intensive-sectors-worrying-krugman-121031500022_1.html](https://www.business-standard.com/article/economy-policy/precocious-growth-in-india-s-skill-intensive-sectors-worrying-krugman-121031500022_1.html "https://www.business-standard.com/article/economy-policy/precocious-growth-in-india-s-skill-intensive-sectors-worrying-krugman-121031500022_1.html")
+    
+3. Commentary on Paul Krugman’s forecasting errors across time (Lapham’s Quarterly): [https://www.laphamsquarterly.org/revolutions/miscellany/paul-krugmans-poor-prediction](https://www.laphamsquarterly.org/revolutions/miscellany/paul-krugmans-poor-prediction "https://www.laphamsquarterly.org/revolutions/miscellany/paul-krugmans-poor-prediction")
+    
+4. Biographical overview of Paul Krugman with academic and career details (Wikipedia): [https://en.wikipedia.org/wiki/Paul_Krugman](https://en.wikipedia.org/wiki/Paul_Krugman "https://en.wikipedia.org/wiki/Paul_Krugman")
+    
+5. Archive of Paul Krugman’s early commentary and economic writings (NYT Blog): [https://krugman.blogs.nytimes.com/](https://krugman.blogs.nytimes.com/ "https://krugman.blogs.nytimes.com/")
+    
+6. Column page for Paul Krugman’s contemporary New York Times opinion essays: [https://www.nytimes.com/column/paul-krugman](https://www.nytimes.com/column/paul-krugman "https://www.nytimes.com/column/paul-krugman")
+    
+7. Official Nobel Prize biography and career facts for Paul Krugman (2008 Winner in Economics): [https://www.nobelprize.org/prizes/economic-sciences/2008/krugman/facts/](https://www.nobelprize.org/prizes/economic-sciences/2008/krugman/facts/ "https://www.nobelprize.org/prizes/economic-sciences/2008/krugman/facts/")
+    
+8. Op-ed archive of Krugman’s columns for Project Syndicate: [https://www.project-syndicate.org/columnist/paul-krugman](https://www.project-syndicate.org/columnist/paul-krugman "https://www.project-syndicate.org/columnist/paul-krugman")
+    
+9. Collection of Krugman’s published works and reader reviews (Goodreads): [https://www.goodreads.com/author/show/7528.Paul_Krugman](https://www.goodreads.com/author/show/7528.Paul_Krugman "https://www.goodreads.com/author/show/7528.Paul_Krugman")
+    
+10. Faculty profile of Paul Krugman at MIT Department of Economics: [https://economics.mit.edu/people/faculty/paul-krugman](https://economics.mit.edu/people/faculty/paul-krugman "https://economics.mit.edu/people/faculty/paul-krugman")
+    
+11. Biography and policy career summary of Lawrence Summers (Wikipedia): [https://en.wikipedia.org/wiki/Lawrence_Summers](https://en.wikipedia.org/wiki/Lawrence_Summers "https://en.wikipedia.org/wiki/Lawrence_Summers")
+    
+12. Profile documenting Summers’s controversies and affiliations (SourceWatch): [https://www.sourcewatch.org/index.php/Lawrence_Summers](https://www.sourcewatch.org/index.php/Lawrence_Summers "https://www.sourcewatch.org/index.php/Lawrence_Summers")
+    
+13. 2000 Federal Reserve Board speech by Lawrence Summers on financial policy reform: [https://www.federalreserve.gov/boarddocs/speeches/2000/20000512.htm](https://www.federalreserve.gov/boarddocs/speeches/2000/20000512.htm "https://www.federalreserve.gov/boarddocs/speeches/2000/20000512.htm")
+    
+14. Treasury Department biographical page for former Secretary Lawrence Summers: [https://www.treasury.gov/about/history/Pages/lsummers.aspx](https://www.treasury.gov/about/history/Pages/lsummers.aspx "https://www.treasury.gov/about/history/Pages/lsummers.aspx")
+    
+15. Critical essay exposing the failures of Wall Street leadership, referencing Summers’s role (Harper’s Magazine): [https://harpers.org/archive/2009/03/wall-streets-naked-emperor/](https://harpers.org/archive/2009/03/wall-streets-naked-emperor/ "https://harpers.org/archive/2009/03/wall-streets-naked-emperor/")
+    
+16. Investigative article on Summers’s secret “End Game” financial memo (Bloomberg): [https://www.bloomberg.com/news/articles/2009-11-12/larry-summers-and-the-secret-end-game-memo](https://www.bloomberg.com/news/articles/2009-11-12/larry-summers-and-the-secret-end-game-memo "https://www.bloomberg.com/news/articles/2009-11-12/larry-summers-and-the-secret-end-game-memo")
+    
+17. Political profile of Summers as a powerful figure in the Obama White House (Politico): [https://www.politico.com/story/2009/04/summers-tough-guy-in-the-white-house-021286](https://www.politico.com/story/2009/04/summers-tough-guy-in-the-white-house-021286 "https://www.politico.com/story/2009/04/summers-tough-guy-in-the-white-house-021286")
+    
+18. Wall Street Journal coverage of Summers’s economic influence and controversies: [https://www.wsj.com/articles/SB124238415327735643](https://www.wsj.com/articles/SB124238415327735643 "https://www.wsj.com/articles/SB124238415327735643")
+    
+19. New York Times profile covering Summers’s pivotal White House role in 2009 crisis management: [https://www.nytimes.com/2009/04/06/business/06summers.html](https://www.nytimes.com/2009/04/06/business/06summers.html "https://www.nytimes.com/2009/04/06/business/06summers.html")
+    
+20. Washington Post feature assessing Summers’s self-confidence and career risks: [https://www.washingtonpost.com/business/economy/for-lawrence-summers-self-confidence-has-its-rewards-and-risks/2013/07/28/6c9c0706-f019-11e2-bed3-b9b6fe264871_story.html](https://www.washingtonpost.com/business/economy/for-lawrence-summers-self-confidence-has-its-rewards-and-risks/2013/07/28/6c9c0706-f019-11e2-bed3-b9b6fe264871_story.html "https://www.washingtonpost.com/business/economy/for-lawrence-summers-self-confidence-has-its-rewards-and-risks/2013/07/28/6c9c0706-f019-11e2-bed3-b9b6fe264871_story.html")
+    
+21. Planet Money feature explaining economist Jeffrey Sachs’s “shock therapy” reform model: [https://www.npr.org/2022/05/07/1097177459/planet-money-newsletter-jeffrey-sachs-shock-therapy](https://www.npr.org/2022/05/07/1097177459/planet-money-newsletter-jeffrey-sachs-shock-therapy "https://www.npr.org/2022/05/07/1097177459/planet-money-newsletter-jeffrey-sachs-shock-therapy")
+    
+22. NPR analysis of economic sanctions and the term “economic weapon” referencing Sachs: [https://www.npr.org/2022/03/22/1088125876/the-economic-weapon-russia-shock-therapy](https://www.npr.org/2022/03/22/1088125876/the-economic-weapon-russia-shock-therapy "https://www.npr.org/2022/03/22/1088125876/the-economic-weapon-russia-shock-therapy")
+    
+23. Comprehensive biographical summary of Jeffrey Sachs (Wikipedia): [https://en.wikipedia.org/wiki/Jeffrey_Sachs](https://en.wikipedia.org/wiki/Jeffrey_Sachs "https://en.wikipedia.org/wiki/Jeffrey_Sachs")
+    
+24. Collection of Sachs’s global economic commentaries (Project Syndicate): [https://www.project-syndicate.org/columnist/jeffrey-d-sachs](https://www.project-syndicate.org/columnist/jeffrey-d-sachs "https://www.project-syndicate.org/columnist/jeffrey-d-sachs")
+    
+25. Personal website of Jeffrey D. Sachs including publications and projects: [https://www.jeffsachs.org/](https://www.jeffsachs.org/ "https://www.jeffsachs.org/")
+    
+26. Columbia University Earth Institute profile of Jeffrey Sachs: [https://www.earthinstitute.columbia.edu/about/director/jsachs](https://www.earthinstitute.columbia.edu/about/director/jsachs "https://www.earthinstitute.columbia.edu/about/director/jsachs")
+    
+27. Guardian profile on Sachs’s critique of market economics and capitalism: [https://www.theguardian.com/world/2012/oct/07/jeffrey-sachs-capitalism-market-economics](https://www.theguardian.com/world/2012/oct/07/jeffrey-sachs-capitalism-market-economics "https://www.theguardian.com/world/2012/oct/07/jeffrey-sachs-capitalism-market-economics")
+    
+28. Washington Post op-ed by Jeffrey Sachs offering perspective on Russia-Ukraine sanctions: [https://www.washingtonpost.com/opinions/2022/04/05/ukraine-war-russia-sanctions-jeffrey-sachs/](https://www.washingtonpost.com/opinions/2022/04/05/ukraine-war-russia-sanctions-jeffrey-sachs/ "https://www.washingtonpost.com/opinions/2022/04/05/ukraine-war-russia-sanctions-jeffrey-sachs/")
+    
+29. Financial Times piece analyzing Sachs’s early economic interventions: [https://www.ft.com/content/8c0e0c8e-b8f4-11e1-b4d6-00144feabdc0](https://www.ft.com/content/8c0e0c8e-b8f4-11e1-b4d6-00144feabdc0 "https://www.ft.com/content/8c0e0c8e-b8f4-11e1-b4d6-00144feabdc0")
+    
+30. Foreign Policy editorial reviewing Sachs’s critique of Western systems: [https://foreignpolicy.com/2012/05/02/the-case-against-the-west-africa-and-the-centenarians/](https://foreignpolicy.com/2012/05/02/the-case-against-the-west-africa-and-the-centenarians/ "https://foreignpolicy.com/2012/05/02/the-case-against-the-west-africa-and-the-centenarians/")

@@ -1,0 +1,24 @@
+{
+  "name": "बिखरता साम्राज्य - Bikharta Samrajya",
+  "short_name": "बिखरता साम्राज्य",
+  "description": "अमेरिकी वित्तीय साम्राज्य के उदय और पतन की कहानी। भू-राजनीति और वैश्विक वित्त व्यवस्था का एक गहन विश्लेषण।",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FAF6EE",
+  "theme_color": "#722F37",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

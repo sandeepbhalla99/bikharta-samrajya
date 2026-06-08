@@ -1,0 +1,73 @@
+# भ्रम का चक्रव्यूह
+
+_हम्प्टी डम्प्टी दीवार पर, अंडा गिरने की इंतज़ार में।_
+
+अमेरिका का प्रवाहित शासन हाल ही में उस चीज में प्रकट हुआ है जो भारत के विरुद्ध एक हताश क्षेत्रीय घेराव रणनीति प्रतीत होती है। यह सामरिक जागरूकता और रणनीतिक असंगति दोनों प्रकट करता है। किसी लक्ष्य को घेरने का उद्देश्य प्रतिद्वंद्वी को अलग-थलग करना है, उन्हें प्रभावहीन बनाना और या तो आत्मसमर्पण या विनाश के लिए विवश करना। इस मामले में घेराव ने भारत की पूर्वी और पश्चिमी सीमाओं से परे तबाही मचाई है।
+
+प्रतीत होता है कि अमेरिका ऑपरेशन सिंदूर के बाद पाकिस्तानी सुविधाओं तक पहुँच खोने के बाद अपने अभियान बढ़ा रहा है। अफगानिस्तान अधिग्रहण के दौरान बगराम अमेरिका का मुख्य केंद्र था। 2021 में इसे खोने से एक रणनीतिक अंतराल उत्पन्न हुआ। किंतु तालिबान ने अड्डे के अनुरोध पर नहीं कहा। वे बात करेंगे किंतु अमेरिका को सैन्य सुविधाएँ नहीं देंगे। यह अमेरिका को क्षेत्र में अग्रिम स्थानों के लिए कहीं और देखने के लिए विवश करता है। अब वे बांग्लादेश पर ध्यान केंद्रित कर रहे हैं। यह एक नई क्षेत्रीय घेराव रणनीति है।
+
+---
+
+## ढाका वृद्धि
+
+मोहम्मद यूनुस को केवल CIA-आयोजित शासन परिवर्तन अभियान के रूप में वर्णित की जा सकने वाली प्रक्रिया के माध्यम से बांग्लादेश में प्रभावी तानाशाह के रूप में स्थापित किया गया है। अमेरिकी CIA अधिकारी और मरीन वर्तमान में बांग्लादेश सेना को प्रशिक्षण दे रहे हैं। यह भारत की पूर्वी सीमा पर एक सेवक सैन्य बल बनाता है।
+
+टेरेंस आर्वेल जैक्सन 31 अगस्त 2025 को ढाका के वेस्टिन होटल के कमरा 808 में मृत पाए गए। वे 1st Special Forces Command (Airborne) के Command Inspector General थे। वे कथित "व्यापार यात्रा" पर छह महीने से अधिक समय से ढाका में थे। एक सक्रिय वायु सेना व्यक्ति व्यापार यात्रा पर जो महीनों तक चले? आप अनुमान लगाइए।
+
+इसके अलावा, पूर्व राजदूत पीटर हास ढाका के नियमित यात्री हैं। वर्तमान में वे एक वर्ष के भीतर ढाका की अपनी छठी यात्रा पर हैं। भारतीय एजेंसियों ने उन्हें भारत-विरोधी गतिविधियों के लिए चिह्नित किया था। जैक्सन कोई साधारण अधिकारी नहीं थे। वे एक CIA अधिकारी थे जिन्होंने बांग्लादेश में शासन परिवर्तन अभियानों में महत्वपूर्ण भूमिका निभाई थी।
+
+बांग्लादेश में अमेरिकी सैन्य उपस्थिति 2025 के दौरान नाटकीय रूप से विस्तृत हुई। संयुक्त सैन्य अभ्यास "Tiger Lightning 2025" Para Commando Brigade मुख्यालय में आयोजित किया गया। यह 15 जुलाई से 5 अगस्त तक चला, ठीक ऑपरेशन सिंदूर के बाद की समयरेखा से मेल खाते हुए। अमेरिका ने मानव रहित हवाई व्यवस्था क्षमताएँ विकसित करने के लिए बांग्लादेश की सेना और नौसेना के साथ काम किया।
+
+यह अनुक्रम पाकिस्तानी अड्डे खोने के बाद बांग्लादेश में अमेरिकी संपत्तियों की तीव्र तैनाती दर्शाता है।
+
+बांग्लादेश में घटनाओं की एक श्रृंखला हुई है। इसकी उत्तरी सीमा 40-50 किलोमीटर अंदर आ गई है जबकि चीनी उपग्रह की छवियाँ कोई विसंगति नहीं दिखातीं। एक हवाई अड्डे पर आग लगी जिसने अरबों डॉलर की संपत्ति जला दी। अफवाह है कि 24 अक्तूबर 2025 को ढाका के शेरेटन होटल में एक पाकिस्तानी ISI एजेंट मृत पाया गया।
+
+---
+
+## मणिपुर नजीर
+
+अमेरिका का पहले का प्रयास भारत के उत्तर-पूर्वी राज्य मणिपुर में था। एक वर्ष से अधिक समय तक विद्रोह भड़काने के लिए ईसाई चर्चों का उपयोग किया गया। यह क्लासिक शासन परिवर्तन कार्यपुस्तिका का अनुसरण किया। आंतरिक संघर्ष उत्पन्न करने के लिए धार्मिक या जातीय विभाजनों का उपयोग करना। केंद्रीय सरकारी अधिकार के विरुद्ध छद्म समूहों का समर्थन करना। हमने शासन परिवर्तन अभियानों पर एक अन्य अध्याय में इसी प्रकार के अभियानों का व्यापक रूप से विश्लेषण किया है।
+
+जब मणिपुर अभियान निरंतर अस्थिरता उत्पन्न करने में विफल रहे, अमेरिका ने अभियान बांग्लादेश में स्थानांतरित किए। मणिपुर में विद्रोह को बढ़ावा देने वाले वही चर्च बांग्लादेश में इसी प्रकार के नेटवर्क से संपर्क रखते हैं।
+## नेपाल तख्तापलट
+
+नेपाल ने भी इसी प्रकार अस्थिरताकारी शासन परिवर्तन अभियानों का अनुभव किया है। यह भारत की उत्तरी सीमा पर संभावित दबाव का एक और बिंदु बनाता है। एक लक्ष्य राष्ट्र के चारों ओर एक साथ क्षेत्रीय अस्थिरता का प्रारूप CIA के स्थापित परिचालन सिद्धांत का अनुसरण करता है। यह एक विफल CIA अभियान है क्योंकि इसके बाद किसी अमेरिकी अधिकारी ने हिमालयी राज्य का दौरा नहीं किया। व्हाइट हाउस ने भी प्रेस वक्तव्यों में इसे नजरअंदाज किया है।
+
+अब ब्रिटिश BBC आश्चर्य कर रहा है कि भारत में जनरेशन Z नेपाल की तरह सड़कों पर क्यों नहीं आ रहा।
+
+---
+
+## पाकिस्तान-सऊदी रक्षा समझौता
+
+सबसे खुलासा करने वाला है पाकिस्तान-सऊदी अरब आपसी रक्षा समझौता। संधि 17 सितंबर 2025 को रियाद में सऊदी युवराज मोहम्मद बिन सलमान और पाकिस्तानी प्रधानमंत्री शहबाज शरीफ द्वारा हस्ताक्षरित की गई, जिसमें घोषणा की गई कि किसी भी देश पर हमला दोनों पर हमला माना जाएगा। यह समझौता स्पष्ट अमेरिकी स्वीकृति के बिना असंभव है, विशेषतः यह देखते हुए कि सऊदी वायु सेना अमेरिकी समर्थन पर भारी निर्भर है।
+
+पाकिस्तान और अफगानिस्तान के मध्य युद्ध छिड़ गया। पाकिस्तान ने दर्जनों सेना कर्मियों और अपनी सीमा चौकियाँ खोईं। दोहा, कतर में युद्धविराम हुआ किंतु सऊदी ने हस्तक्षेप नहीं किया।
+
+समझौते का रणनीतिक उद्देश्य पारदर्शी है। यह भारत को दो-मोर्चे के दबाव की धमकी देता है यदि भारत ऑपरेशन सिंदूर फिर शुरू करे, जो अभी निलंबित है। संदेश स्पष्ट है। पाकिस्तान-आधारित आतंकवाद के विरुद्ध किसी भी भारतीय सैन्य अभियान से व्यापक क्षेत्रीय संघर्ष छिड़ेगा।
+
+वाशिंगटन इसे भारत के चारों ओर संकट क्षेत्रों की अंगूठी कहता है। वे सोचते हैं यह रणनीतिक प्रतिभाशालिता है। वास्तव में, यह रणनीतिक मूर्खता को ढकने वाली सामरिक चतुराई है। यह भारत के चारों ओर संकट की अंगूठी नहीं है, यह भ्रम की अंगूठी है जिसने वाशिंगटन को घेर लिया है।
+## साम्राज्यिक आत्म-विनाश
+
+जैसा कि पिछले अध्यायों में समझाया गया, यह वृद्धि पतनशील साम्राज्यों में देखे गए ऐतिहासिक प्रारूप का अनुसरण करती है। जब साम्राज्य पतन का सामना करते हैं, वे प्रायः प्रबंधित वापसी के बजाय विनाशकारी सैन्य साहस चुनते हैं। हताश साम्राज्य लागत और परिणामों के बारे में तार्किक रूप से नहीं सोचते।
+
+अमेरिका का तीस खरब डॉलर का सैन्य शस्त्रागार बेकार हो जाता है यदि इसे युद्ध में फिर से भरा नहीं जा सकता। किंतु यह जानना रणनीतिक अपमान के प्रति भावनात्मक प्रतिक्रियाओं को नहीं रोकता।
+
+भारत पर सैन्य कार्रवाई संभावना नहीं किंतु पूरी तरह असंभव भी नहीं। किंतु अन्य संभावनाएँ भी हैं। केवल समय ही बताएगा अमेरिका क्या चुनेगा। किंतु नई शीत युद्ध शुरू हो चुकी है। हम इसकी चर्चा अगले अध्याय में करेंगे।
+
+**References**:
+
+1. US Citizen in Dhaka: [https://www.tbsnews.net/bangladesh/us-citizen-found-dead-dhaka-hotel-police-suspect-natural-causes-1225546](https://www.tbsnews.net/bangladesh/us-citizen-found-dead-dhaka-hotel-police-suspect-natural-causes-1225546 "https://www.tbsnews.net/bangladesh/us-citizen-found-dead-dhaka-hotel-police-suspect-natural-causes-1225546")  
+    
+2. Mysterious Death in Dhaka: [https://weeklyblitz.net/2025/09/03/us-special-forces-officer-death-dhaka-isi-espionage/](https://weeklyblitz.net/2025/09/03/us-special-forces-officer-death-dhaka-isi-espionage/ "https://weeklyblitz.net/2025/09/03/us-special-forces-officer-death-dhaka-isi-espionage/")  
+    
+3. Peter Haas in Dhaka: [https://thecsrjournal.in/us-special-forces-officer-business-trip-found-dead-dhaka-hotel-india-raises-concerns/](https://thecsrjournal.in/us-special-forces-officer-business-trip-found-dead-dhaka-hotel-india-raises-concerns/ "https://thecsrjournal.in/us-special-forces-officer-business-trip-found-dead-dhaka-hotel-india-raises-concerns/")  
+    
+4. ISI agent in Dhaka: [https://www.latestly.com/social-viral/fact-check/pakistan-isi-agent-found-dead-at-sheraton-hotel-in-bangladeshs-dhaka-after-mysterious-death-of-us-officer-unverified-claims-go-viral-7174030.html](https://www.latestly.com/social-viral/fact-check/pakistan-isi-agent-found-dead-at-sheraton-hotel-in-bangladeshs-dhaka-after-mysterious-death-of-us-officer-unverified-claims-go-viral-7174030.html "https://www.latestly.com/social-viral/fact-check/pakistan-isi-agent-found-dead-at-sheraton-hotel-in-bangladeshs-dhaka-after-mysterious-death-of-us-officer-unverified-claims-go-viral-7174030.html")  
+    
+5. Saudi-Pakistan Defence Pact: [https://edition.cnn.com/2025/09/17/middleeast/saudi-arabia-pakistan-defense-pact-intl-hnk](https://edition.cnn.com/2025/09/17/middleeast/saudi-arabia-pakistan-defense-pact-intl-hnk "https://edition.cnn.com/2025/09/17/middleeast/saudi-arabia-pakistan-defense-pact-intl-hnk")  
+    
+6. High profile pact ceremony: [https://thediplomat.com/2025/09/pakistan-and-saudi-arabia-forge-strategic-defense-pact-amid-shifting-west-asian-dynamics/](https://thediplomat.com/2025/09/pakistan-and-saudi-arabia-forge-strategic-defense-pact-amid-shifting-west-asian-dynamics/ "https://thediplomat.com/2025/09/pakistan-and-saudi-arabia-forge-strategic-defense-pact-amid-shifting-west-asian-dynamics/")   
+    
+7. Pakistan to deploy troops: [https://www.firstpost.com/world/military-boots-in-saudi-arabia-petro-dollar-in-pakistan-whats-inside-riyadh-islamabad-defence-pact-13944852.html](https://www.firstpost.com/world/military-boots-in-saudi-arabia-petro-dollar-in-pakistan-whats-inside-riyadh-islamabad-defence-pact-13944852.html "https://www.firstpost.com/world/military-boots-in-saudi-arabia-petro-dollar-in-pakistan-whats-inside-riyadh-islamabad-defence-pact-13944852.html")  
+    
+8. BBC article: [https://www.bbc.com/news/articles/cq6zg9ele22o](https://www.bbc.com/news/articles/cq6zg9ele22o "https://www.bbc.com/news/articles/cq6zg9ele22o")

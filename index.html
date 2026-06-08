@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="hi" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="बिखरता साम्राज्य (Bikharta Samrajya) - अमेरिकी वित्तीय साम्राज्य के उदय और पतन की कहानी। भू-राजनीति और वैश्विक वित्त व्यवस्था का एक गहन विश्लेषण।">
+  <meta name="author" content="Economist & Financial Practitioner">
+  <title>बिखरता साम्राज्य - Bikharta Samrajya</title>
+
+  <!-- Web App PWA Manifest & App Config -->
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#722F37">
+  
+  <!-- Mobile Styling Controls (iOS/Safari Support) -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <link rel="apple-touch-icon" href="icon-512.png">
+
+  <!-- Premium Stylesheet -->
+  <link rel="stylesheet" href="css/styles.css">
+
+  <!-- Markdown Parser (marked.js) from CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+
+  <!-- Top Navigation Bar -->
+  <nav class="navbar" id="navbar">
+    <div class="nav-brand" id="nav-brand">
+      <!-- Decorative SVG Logo representing a classical golden pillar -->
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="var(--accent-burgundy)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M4 21h16M4 3h16M7 3v18M11 3v18M17 3v18M14 3v18"/>
+      </svg>
+      <span class="nav-title">बिखरता साम्राज्य</span>
+    </div>
+
+    <div class="nav-controls">
+      <!-- Font sizing control pill -->
+      <div class="control-pill font-pill">
+        <button id="font-decrease" title="Decrease font size">A-</button>
+        <button id="font-toggle" title="Toggle font style">Serif</button>
+        <button id="font-increase" title="Increase font size">A+</button>
+      </div>
+
+      <!-- Theme selector pill -->
+      <div class="control-pill theme-pill">
+        <button class="theme-btn active" data-val="light" title="Light Theme">Light</button>
+        <button class="theme-btn" data-val="sepia" title="Sepia Theme">Sepia</button>
+        <button class="theme-btn" data-val="dark" title="Dark Theme">Dark</button>
+      </div>
+
+      <!-- Mobile hamburger menu -->
+      <button class="btn-icon menu-toggle" id="menu-toggle" aria-label="Toggle Table of Contents">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="3" y1="12" x2="21" y2="12"></line>
+          <line x1="3" y1="6" x2="21" y2="6"></line>
+          <line x1="3" y1="18" x2="21" y2="18"></line>
+        </svg>
+        <span>Chapters</span>
+      </button>
+    </div>
+  </nav>
+
+  <!-- Main Work Area -->
+  <div class="workspace">
+    
+    <!-- Sidebar navigation (Chapters & Search) -->
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-search">
+        <div class="search-input-wrapper">
+          <svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+          <input type="text" id="search-input" class="search-input" placeholder="Search chapters..." aria-label="Search Chapters">
+        </div>
+      </div>
+      <div class="sidebar-list" id="sidebar-list">
+        <!-- Chapters dynamic list injection -->
+      </div>
+      <div class="sidebar-footer">
+        <div class="copyright">&copy; Sandeep Bhalla</div>
+        <div class="license">
+          <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener noreferrer">CC BY-NC 4.0</a>
+        </div>
+      </div>
+    </aside>
+
+    <!-- Reading interface with vertical scroll -->
+    <main class="reader-container" id="reader-container">
+      <!-- Horizontal Scroll Progress Indicator -->
+      <div class="scroll-progress" id="scroll-progress"></div>
+
+      <!-- Centered layout dynamic content pane -->
+      <div id="main-content">
+        <!-- Landing page or active chapter loads here dynamically -->
+      </div>
+    </main>
+
+  </div>
+
+  <!-- PWA Service Worker Registration -->
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('./sw.js')
+          .then(reg => {
+            console.log('Service Worker registered successfully!', reg.scope);
+          })
+          .catch(err => {
+            console.error('Service Worker registration failed:', err);
+          });
+      });
+    }
+  </script>
+
+  <!-- Main Application Logic Script -->
+  <script src="js/app.js"></script>
+</body>
+</html>
