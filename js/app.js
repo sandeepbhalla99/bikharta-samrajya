@@ -280,7 +280,7 @@ document.addEventListener('DOMContentLoaded', () => {
           <div class="book-details">
             <span class="book-tagline">Rise and Fall of the Financial Hegemon</span>
             <h1 class="book-title-main">बिखरता साम्राज्य</h1>
-            <p class="book-author">By an Economist & Financial Practitioner</p>
+            <p class="book-author">By a Lawyer, Economist & Financial Practitioner</p>
             <p class="book-description">
               An immersive exploration into the geopolitical shift of economic power, detailing the trajectory of the American financial hegemony, the mechanics of fiat systems, and the rise of gold and sovereign currency networks. 
             </p>
