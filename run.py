@@ -25,7 +25,7 @@ def open_browser():
 
 def main():
     print("=" * 60)
-    print("      बिखरता साम्राज्य (Bikharta Samrajya) - Local Preview")
+    print("      अमरीका का बिखरता साम्राज्य (Bikharta Samrajya) - Local Preview")
     print("=" * 60)
     print(f"Starting elegant book reader web server on port {PORT}...")
     print(f"Serving files from: {DIRECTORY}\n")
