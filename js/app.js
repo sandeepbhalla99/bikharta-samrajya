@@ -282,7 +282,7 @@ document.addEventListener('DOMContentLoaded', () => {
             <h1 class="book-title-main">अमरीका का बिखरता साम्राज्य</h1>
             <p class="book-author">By a Lawyer, Economist & Financial Practitioner</p>
             <p class="book-description">
-              An immersive exploration into the geopolitical shift of economic power, detailing the trajectory of the American financial hegemony, the mechanics of fiat systems, and the rise of gold and sovereign currency networks. 
+              एक गहन विश्लेषण कि कैसे अमरीका एक आर्थिक और वैश्विक महाशक्ति बना और कैसे वह अब पतन की ढलान पर निकल चुका है। आइए पढ़ें....
             </p>
             <div class="book-actions">
               <button class="btn-primary" id="btn-start-reading">
