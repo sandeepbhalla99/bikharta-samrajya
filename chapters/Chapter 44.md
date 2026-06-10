@@ -41,10 +41,3 @@ _क्रिया का अपना फल होता है। फल क
 अगर मुद्रा छापने से धन पैदा होता है तो मुद्रा जारी करने वाले देशों में आधारभूत संरचना की समस्याएँ क्यों हैं? अगर वित्तीय नवाचार प्रगति चलाता है तो सरल व्यवस्थाएँ क्यों बेहतर काम करती हैं? अगर वैश्विक एकीकरण सबके लिए लाभदायक है तो स्वायत्त देश क्यों बेहतर परिणाम दिखा रहे हैं? अगर आरक्षित मुद्रा वाले देशों के लिए ऋण मायने नहीं रखता तो वे बुनियादी सेवाएँ क्यों नहीं चला पा रहे?
 
 ये जटिल सैद्धांतिक प्रश्न नहीं हैं। ये व्यावहारिक अवलोकन हैं जिनका मुख्यधारा के अर्थशास्त्री कोई जवाब नहीं दे पा रहे। मौन स्वीकार्य नहीं है। विषय बदलना पर्याप्त नहीं है। व्यवस्थागत पैटर्नों को नजरअंदाज करके बाहरी कारकों को दोष देना बौद्धिक बेईमानी है। यह बचाव ही असली संकट है। स्पष्ट रूप से समझाइए, या यह स्वीकार कीजिए कि वे स्पष्ट सत्य को छिपा रहे हैं।
-
-References:
-1.	Action: J. Krishnamurthy on July 10, 1980 Saanen talk “Action That Is Always Correct.
-2.	Universe and disorder: Stephen Hawking in A Brief History of Time (1988).
-3.	Comparative video of Delhi and New York metro uploaded by Sputnik News India, at link https://x.com/Sputnik_India/status/1844460860887052094 is missing but it was reloaded by another x user and was available at https://x.com/rishibagree/status/1844777759907672187  Last accessed on 28 October 2025. 
-
-

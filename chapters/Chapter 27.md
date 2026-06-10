@@ -121,33 +121,3 @@
 यह इसलिए महत्वपूर्ण है क्योंकि कला मृदु शक्ति का भाग है। जब अरबपति खरीदना बंद करते हैं, विश्व ध्यान देता है। वे एक ऐसा साम्राज्य देखते हैं जो अपनी स्वयं की कथा नहीं बनाए रख सकता। पिछले अध्याय ने दिखाया कि मृदु शक्ति कैसे पीछे हटी। हॉलीवुड ने अपना जादू खोया। कलाकारों ने उत्पादन बंद किया। अब मृदु शक्ति की वित्तीय मशीनरी भी रुक रही है।
 
 **इस बीच, विश्व अमेरिकी प्रौद्योगिकी की शक्ति को विस्मय से देख रहा है। किंतु क्या यह विस्मय स्थायी है? क्या देश अमेरिकी प्रौद्योगिकी पर अपनी निर्भरता तोड़ रहे हैं? इसी प्रश्न का उत्तर अगले अध्याय में खोजते हैं।**
-
-
-
-
-
-References
-
-1. “Art Market Update: Key Trends and Analysis for Spring 2025” - Bank of America Private Bank (March 14, 2025): [https://www.pbig.ml.com/articles/art-market-spring-update.html](https://www.pbig.ml.com/articles/art-market-spring-update.html "https://www.pbig.ml.com/articles/art-market-spring-update.html")
-    
-2. “Sale fell by 25%” [https://hyperallergic.com/1002180/art-auction-sales-dropped-by-25-percent-in-2024-amid-global-volatility/](https://hyperallergic.com/1002180/art-auction-sales-dropped-by-25-percent-in-2024-amid-global-volatility/ "https://hyperallergic.com/1002180/art-auction-sales-dropped-by-25-percent-in-2024-amid-global-volatility/") 
-    
-3. “Auction sales fall 6% in the first half, raising fears for art market” - CNBC (July 25, 2025): [https://www.cnbc.com/2025/07/25/fine-art-auction-sales.html](https://www.cnbc.com/2025/07/25/fine-art-auction-sales.html "https://www.cnbc.com/2025/07/25/fine-art-auction-sales.html")
-    
-4. “Art Basel and UBS Survey of Global Collecting” - Artnet News (October 28, 2024): [https://news.artnet.com/art-world/collecting-report-2024-2559213](https://news.artnet.com/art-world/collecting-report-2024-2559213 "https://news.artnet.com/art-world/collecting-report-2024-2559213")
-    
-5. “Why billionaires aren't bidding: Art sales fall to decade low” - Quartz (July 2025): [https://qz.com/why-billionaires-arent-bidding-art-sales-fall-to-decade-low](https://qz.com/why-billionaires-arent-bidding-art-sales-fall-to-decade-low "https://qz.com/why-billionaires-arent-bidding-art-sales-fall-to-decade-low")
-    
-6. “The art market is in a correction as big spenders fade” - CNBC (October 24, 2024): [https://www.cnbc.com/2024/10/24/art-market-correction.html](https://www.cnbc.com/2024/10/24/art-market-correction.html "https://www.cnbc.com/2024/10/24/art-market-correction.html")
-    
-7. “Global art sales plummeted by 12% in 2024, says industry report” - CNN (April 9, 2025): [https://www.cnn.com/2025/04/08/style/art-market-report-2024-basel-ubs-tan](https://www.cnn.com/2025/04/08/style/art-market-report-2024-basel-ubs-tan "https://www.cnn.com/2025/04/08/style/art-market-report-2024-basel-ubs-tan")
-    
-8. In March 2025, MF Husain's painting "Untitled (Gram Yatra)" fetched a record-breaking price of ₹118 crore (approximately $13.8 million) at Christie's auction in New York:  [https://paintphotographs.com/article/mf-husain-gram-yatra-painting-valuation](https://paintphotographs.com/article/mf-husain-gram-yatra-painting-valuation "https://paintphotographs.com/article/mf-husain-gram-yatra-painting-valuation") 
-    
-9. “The Art Basel and UBS Art Market Report 2025” - UBS Global: [https://www.ubs.com/global/en/our-firm/art/art-market-research.html](https://www.ubs.com/global/en/our-firm/art/art-market-research.html "https://www.ubs.com/global/en/our-firm/art/art-market-research.html")
-    
-10. “2025 Art Market Trends: Luxury, Collectors & Change” - World Luxury Chamber (June 13, 2025): [https://worldluxurychamber.com/2025-art-market-trends-luxury-collectors/](https://worldluxurychamber.com/2025-art-market-trends-luxury-collectors/ "https://worldluxurychamber.com/2025-art-market-trends-luxury-collectors/")
-    
-11. “The Art Market in 2025: A Moment of Strategic Rebalancing” - Contemporary Art Now: [https://www.contemporaryartnow.com/news/en/the-art-market-in-2025-a-moment-of-strategic-rebalancing-for-collectors](https://www.contemporaryartnow.com/news/en/the-art-market-in-2025-a-moment-of-strategic-rebalancing-for-collectors "https://www.contemporaryartnow.com/news/en/the-art-market-in-2025-a-moment-of-strategic-rebalancing-for-collectors")
-    
-12. “Art Market 2025: Why Growth at the Lower End Is Redefining the Industry” – MyArtBroker: [https://www.myartbroker.com/investing/articles/art-market-2025-growth-at-the-lower-end-is-redfining-the-industry](https://www.myartbroker.com/investing/articles/art-market-2025-growth-at-the-lower-end-is-redfining-the-industry "https://www.myartbroker.com/investing/articles/art-market-2025-growth-at-the-lower-end-is-redfining-the-industry")

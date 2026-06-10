@@ -100,39 +100,3 @@ M3 2005 में $9.5 खरब था। आज यह छुपा हुआ 
 सबसे परिष्कृत विश्लेषण सरल प्रश्न पूछ रहा है। वह सारा धन कहाँ बह रहा है? जब वहाँ पहुँचता है तो क्या होता है? बाकी सब इस मूलभूत सत्य की व्याख्या या विकर्षण है।
 
 प्रारूप पूर्वानुमेय है। समय अनिश्चित है। पैमाना ऐतिहासिक होगा। अगले अध्याय में हम उस "पूर्ण बुलबुले" का अन्वेषण करेंगे जो इस सारी अतिरिक्त तरलता से बनता है।
-
-**References**:
-
-1. Money supply in Europe: [https://www.statista.com/statistics/254248/money-supply-m3-eurozone/](https://www.statista.com/statistics/254248/money-supply-m3-eurozone/ "https://www.statista.com/statistics/254248/money-supply-m3-eurozone/")  
-    
-2. How Should We Respond to Asset Price Bubbles? - Federal Reserve Board: [https://www.federalreserve.gov/newsevents/speech/mishkin20080515a.htm](https://www.federalreserve.gov/newsevents/speech/mishkin20080515a.htm "https://www.federalreserve.gov/newsevents/speech/mishkin20080515a.htm")
-    
-3. Early Speculative Bubbles and Increases in the Supply of Money - Mises Institute: [https://mises.org/library/book/early-speculative-bubbles-and-increases-supply-money](https://mises.org/library/book/early-speculative-bubbles-and-increases-supply-money "https://mises.org/library/book/early-speculative-bubbles-and-increases-supply-money")
-    
-4. Asset Bubbles and Monetary Policy - ScienceDirect: [https://www.sciencedirect.com/science/article/abs/pii/S1094202520300508](https://www.sciencedirect.com/science/article/abs/pii/S1094202520300508 "https://www.sciencedirect.com/science/article/abs/pii/S1094202520300508")
-    
-5. Impact of Monetary Policy on Financial Markets Under Speculative Bubbles: [https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2448-66552019000200157](https://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S2448-66552019000200157 "https://www.scielo.org.mx/scielo.php?script=sci_arttext&amp;pid=S2448-66552019000200157")
-    
-6. The Link Between Money Supply and Inflation - Economics Help: [https://www.economicshelp.org/blog/111/inflation/money-supply-inflation/](https://www.economicshelp.org/blog/111/inflation/money-supply-inflation/ "https://www.economicshelp.org/blog/111/inflation/money-supply-inflation/")
-    
-7. Early Speculative Bubbles and Increases in Money Supply - UNLV Digital Repository: [https://digitalscholarship.unlv.edu/rtds/167/](https://digitalscholarship.unlv.edu/rtds/167/ "https://digitalscholarship.unlv.edu/rtds/167/")
-    
-8. Bridging Between Policymakers' and Economists' Views on Bubbles - Federal Reserve Bank of Chicago: [https://www.chicagofed.org/publications/economic-perspectives/2018/4](https://www.chicagofed.org/publications/economic-perspectives/2018/4 "https://www.chicagofed.org/publications/economic-perspectives/2018/4")
-    
-9. The Asymmetric Effects of Monetary Policy on Stock Price Bubbles - ScienceDirect: [https://www.sciencedirect.com/science/article/abs/pii/S0014292124001533](https://www.sciencedirect.com/science/article/abs/pii/S0014292124001533 "https://www.sciencedirect.com/science/article/abs/pii/S0014292124001533")
-    
-10. Bond Market in 2025: [https://www.cnbc.com/2025/01/01/the-battered-bond-market-starts-2025-facing-some-difficult-issues-about-debt.html](https://www.cnbc.com/2025/01/01/the-battered-bond-market-starts-2025-facing-some-difficult-issues-about-debt.html "https://www.cnbc.com/2025/01/01/the-battered-bond-market-starts-2025-facing-some-difficult-issues-about-debt.html")  
-    
-11. The Austrian Theory of Business Cycle - JSTOR: [https://www.jstor.org/stable/43818666](https://www.jstor.org/stable/43818666 "https://www.jstor.org/stable/43818666")
-    
-12. Austrian Economics and Understanding Booms, Busts, and Money - Foundation for Economic Education: [https://fee.org/articles/austrian-economics-is-essential-to-understand-booms-busts-and-money-itself/](https://fee.org/articles/austrian-economics-is-essential-to-understand-booms-busts-and-money-itself/ "https://fee.org/articles/austrian-economics-is-essential-to-understand-booms-busts-and-money-itself/")
-    
-13. The Austrian Theory of Money - Mises Institute: [https://mises.org/mises-daily/austrian-theory-money](https://mises.org/mises-daily/austrian-theory-money "https://mises.org/mises-daily/austrian-theory-money")
-    
-14. Financial Bubbles and Austrian Business Cycle Theory - Econlib: [https://www.econlib.org/financial-bubbles-and-austrian-business-cycle-theory/](https://www.econlib.org/financial-bubbles-and-austrian-business-cycle-theory/ "https://www.econlib.org/financial-bubbles-and-austrian-business-cycle-theory/")
-    
-15. Debt of $ 9.2 trillion: [https://marketadvisorygroup.com/finances/9-2-trillion-in-u-s-treasury-debt-set-to-mature-this-year-what-retirees-need-to-know/](https://marketadvisorygroup.com/finances/9-2-trillion-in-u-s-treasury-debt-set-to-mature-this-year-what-retirees-need-to-know/ "https://marketadvisorygroup.com/finances/9-2-trillion-in-u-s-treasury-debt-set-to-mature-this-year-what-retirees-need-to-know/") 
-    
-16. Gold demand by sector: [https://www.reuters.com/business/finance/golds-record-breaking-rally-whos-keeping-it-going-2025-09-22/](https://www.reuters.com/business/finance/golds-record-breaking-rally-whos-keeping-it-going-2025-09-22/ "https://www.reuters.com/business/finance/golds-record-breaking-rally-whos-keeping-it-going-2025-09-22/")   
-    
-17. Tariff effect: [https://www.stlouisfed.org/on-the-economy/2025/oct/how-tariffs-are-affecting-prices-2025](https://www.stlouisfed.org/on-the-economy/2025/oct/how-tariffs-are-affecting-prices-2025 "https://www.stlouisfed.org/on-the-economy/2025/oct/how-tariffs-are-affecting-prices-2025")

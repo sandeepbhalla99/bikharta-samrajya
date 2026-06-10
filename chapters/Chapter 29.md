@@ -117,23 +117,3 @@
 अमेरिका के सैन्य बजट में अभी कोई कटौती नहीं हुई है। यह आज भी आठ सौ अरब डॉलर से ऊपर बना हुआ है। यह स्थिति अत्यधिक तनाव वाली लगती है।
 
 अगले अध्याय में हम देखेंगे कि क्या अमेरिका उसी प्रकार तनाव में है, जिस प्रकार 1940 के दशक में ब्रिटिश साम्राज्य तनावग्रस्त हो गया था।
-
-**References**:
-
-1. Zelensky humiliated: [https://theconversation.com/raised-voices-and-angry-scenes-at-the-white-house-as-trump-clashes-with-zelensky-over-the-minerals-deal-250855](https://theconversation.com/raised-voices-and-angry-scenes-at-the-white-house-as-trump-clashes-with-zelensky-over-the-minerals-deal-250855 "https://theconversation.com/raised-voices-and-angry-scenes-at-the-white-house-as-trump-clashes-with-zelensky-over-the-minerals-deal-250855") 
-    
-2. Zelensky 2: https://www.cnbc.com/2025/10/20/trump-shifts-weight-behind-putin-after-tense-meeting-with-zelenskyy.html 
-    
-3. Zelensky 3: [https://www.reuters.com/world/europe/takeaways-well-mannered-white-house-welcome-ukraine-leaves-many-questions-2025-08-18/](https://www.reuters.com/world/europe/takeaways-well-mannered-white-house-welcome-ukraine-leaves-many-questions-2025-08-18/ "https://www.reuters.com/world/europe/takeaways-well-mannered-white-house-welcome-ukraine-leaves-many-questions-2025-08-18/") 
-    
-4. White House about meeting with European leader: [https://www.whitehouse.gov/videos/president-trump-welcomes-european-leaders-to-the-white-house-for-a-historic-summit/](https://www.whitehouse.gov/videos/president-trump-welcomes-european-leaders-to-the-white-house-for-a-historic-summit/ "https://www.whitehouse.gov/videos/president-trump-welcomes-european-leaders-to-the-white-house-for-a-historic-summit/") 
-    
-5. European leaders and Zelensky attend White House: [https://www.nbcnews.com/politics/white-house/trump-zelenskyys-meeting-europe-leaders-historic-moment-russia-rcna225817](https://www.nbcnews.com/politics/white-house/trump-zelenskyys-meeting-europe-leaders-historic-moment-russia-rcna225817 "https://www.nbcnews.com/politics/white-house/trump-zelenskyys-meeting-europe-leaders-historic-moment-russia-rcna225817") 
-    
-6. Leaders as school children: [https://www.presstv.ir/Detail/2025/08/22/753545/-Headmaster-Trump-treats-European-leaders-as-meek-schoolchildren-in-Oval-Office-spectacle?ht-comment-id=27553465](https://www.presstv.ir/Detail/2025/08/22/753545/-Headmaster-Trump-treats-European-leaders-as-meek-schoolchildren-in-Oval-Office-spectacle?ht-comment-id=27553465 "https://www.presstv.ir/Detail/2025/08/22/753545/-Headmaster-Trump-treats-European-leaders-as-meek-schoolchildren-in-Oval-Office-spectacle?ht-comment-id=27553465") 
-    
-7. Trump to Australian Ambassador Rudd: ["I don't like you either. And I probably never will."](https://youtu.be/Msj7hXLaOUQ?si=dcd6k0FfoF_duXqf "https://youtu.be/Msj7hXLaOUQ?si=dcd6k0FfoF_duXqf")
-    
-8. Your Mom did: [https://www.nydailynews.com/2025/10/21/karoline-leavitt-text-messages-sv-date-reporter-your-mom/](https://www.nydailynews.com/2025/10/21/karoline-leavitt-text-messages-sv-date-reporter-your-mom/ "https://www.nydailynews.com/2025/10/21/karoline-leavitt-text-messages-sv-date-reporter-your-mom/")
-    
-9. Huffington reporter is not a journalist: [https://www.huffpost.com/entry/trump-leavitt-your-momn68f66989e4b0dbac45901c81](https://www.huffpost.com/entry/trump-leavitt-your-momn68f66989e4b0dbac45901c81 "https://www.huffpost.com/entry/trump-leavitt-your-momn68f66989e4b0dbac45901c81")

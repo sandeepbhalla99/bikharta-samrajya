@@ -113,33 +113,3 @@
 अमेरिका की रणनीति सरल थी। नेता को अस्त्र दो। उसे अपने प्रतिद्वंद्वी के विरुद्ध उपयोग करो। फिर सुविधाजनक होने पर उसे नष्ट कर दो। इसे न्याय जैसा दिखाओ। इसे मुक्ति जैसा दिखाओ। जनता को उसके उत्थान में अपनी भूमिका भुला दो।
 
 शासन परिवर्तन अभियान लंबे समय से उपयोग में हैं। ब्रिटेन ने इसका उपयोग अपने शासन को बचाने के लिए किया, किंतु अमेरिका ने सरकारों को गिराने और अपने कठपुतलियों को स्थापित करने के लिए इसे परिपूर्ण किया है। तथापि, हाल ही में यह उस उद्देश्य से कम पड़ रहा है। आइए अगले अध्याय में इन शासन परिवर्तन अभियानों के बारे में अधिक अध्ययन करें।
-
-**References**:
-
-1. USS Quincy: [https://history.state.gov/historicaldocuments/frus1945v08/d1](https://history.state.gov/historicaldocuments/frus1945v08/d1 "https://history.state.gov/historicaldocuments/frus1945v08/d1")
-    
-2. US Saudi ties: [https://2001-2009.state.gov/r/pa/ho/time/wwii/19534.htm](https://2001-2009.state.gov/r/pa/ho/time/wwii/19534.htm "https://2001-2009.state.gov/r/pa/ho/time/wwii/19534.htm")  
-    
-3. Bloomberg (2016) - Secret 1974 Treasury deal revealed: [https://www.bloomberg.com/news/features/2016-05-30/the-untold-story-behind-saudi-arabia-s-41-year-u-s-debt-secret](https://www.bloomberg.com/news/features/2016-05-30/the-untold-story-behind-saudi-arabia-s-41-year-u-s-debt-secret "https://www.bloomberg.com/news/features/2016-05-30/the-untold-story-behind-saudi-arabia-s-41-year-u-s-debt-secret")
-    
-4. 1953, Iran Coup: [https://www.trumanlibrary.gov/education/lesson-plans/1953-cia-coup-iran](https://www.trumanlibrary.gov/education/lesson-plans/1953-cia-coup-iran "https://www.trumanlibrary.gov/education/lesson-plans/1953-cia-coup-iran")
-    
-5. Gary Schroen’s First In: [https://www.amazon.com/First-Insiders-Account-Spearheaded-Afghanistan/dp/089141875X](https://www.amazon.com/First-Insiders-Account-Spearheaded-Afghanistan/dp/089141875X "https://www.amazon.com/First-Insiders-Account-Spearheaded-Afghanistan/dp/089141875X")
-    
-6. The Washington Post - "Afghanistan Papers" (2019): [https://www.washingtonpost.com/graphics/2019/investigations/afghanistan-papers/afghanistan-war-confidential-documents/](https://www.washingtonpost.com/graphics/2019/investigations/afghanistan-papers/afghanistan-war-confidential-documents/ "https://www.washingtonpost.com/graphics/2019/investigations/afghanistan-papers/afghanistan-war-confidential-documents/")
-    
-7. The Afghanistan Papers- A Secret History of the War by Craig Whitlock: [https://www.washingtonpost.com/graphics/2019/investigations/afghanistan-papers/afghanistan-war-corruption-government/](https://www.washingtonpost.com/graphics/2019/investigations/afghanistan-papers/afghanistan-war-corruption-government/ "https://www.washingtonpost.com/graphics/2019/investigations/afghanistan-papers/afghanistan-war-corruption-government/") 
-    
-8. Setting the Record Straight: The Associated Press' Iraq Analysis [https://georgewbush-whitehouse.archives.gov/news/releases/2006/10/20061014-3.html](https://georgewbush-whitehouse.archives.gov/news/releases/2006/10/20061014-3.html "https://georgewbush-whitehouse.archives.gov/news/releases/2006/10/20061014-3.html")
-    
-9. Libya: [https://www.csis.org/analysis/libyan-uprising-uncertain-trajectory](https://www.csis.org/analysis/libyan-uprising-uncertain-trajectory "https://www.csis.org/analysis/libyan-uprising-uncertain-trajectory")
-    
-10. Uprising in Libya: [https://csis-website-prod.s3.amazonaws.com/s3fs-public/legacy_files/files/publication/110620_libya.pdf](https://csis-website-prod.s3.amazonaws.com/s3fs-public/legacy_files/files/publication/110620_libya.pdf "https://csis-website-prod.s3.amazonaws.com/s3fs-public/legacy_files/files/publication/110620_libya.pdf").
-    
-11. Syria: [https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/12/09/background-press-call-on-the-situation-in-syria/](https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/12/09/background-press-call-on-the-situation-in-syria/ "https://bidenwhitehouse.archives.gov/briefing-room/press-briefings/2024/12/09/background-press-call-on-the-situation-in-syria/")
-    
-12. Removal of Sanctions on Syria: [https://www.congress.gov/crs-product/RL33487](https://www.congress.gov/crs-product/RL33487 "https://www.congress.gov/crs-product/RL33487")
-    
-13. Petrodollar analysis: [https://arabcenterdc.org/resource/exploring-the-options-arab-oil-exporters-and-the-us-dollar/](https://arabcenterdc.org/resource/exploring-the-options-arab-oil-exporters-and-the-us-dollar/ "https://arabcenterdc.org/resource/exploring-the-options-arab-oil-exporters-and-the-us-dollar/")
-    
-14. $60 Billion investment commitment: [https://www.whitehouse.gov/fact-sheets/2025/05/fact-sheet-president-donald-j-trump-secures-historic-600-billion-investment-commitment-in-saudi-arabia/](https://www.whitehouse.gov/fact-sheets/2025/05/fact-sheet-president-donald-j-trump-secures-historic-600-billion-investment-commitment-in-saudi-arabia/ "https://www.whitehouse.gov/fact-sheets/2025/05/fact-sheet-president-donald-j-trump-secures-historic-600-billion-investment-commitment-in-saudi-arabia/")

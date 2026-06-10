@@ -103,21 +103,3 @@ _अनुकरण प्रायः अकेलेपन और दूसर
 अमेरिका भी उसी राह पर चल रहा है। फर्क सिर्फ इतना है कि अमेरिका के पास ब्रिटेन एक चेतावनी के रूप में है। ब्रिटेन के पास सीखने के लिए कोई तत्काल मिसाल नहीं थी। वे पतन में बिना जाने-समझे फिसल गए। अमेरिका जानता है। पैटर्न साफ है। दिशा अनुमानित है। परिणाम दिख रहे हैं।
 
 साम्राज्य कभी न कभी टूटते हैं। लोग और देश आगे बढ़ते रहते हैं। अगले अध्याय में हम साम्राज्यों के पतन के पैटर्न पर चर्चा करेंगे।
-
-**References**:
-
-1. Empire to Eclipse: [https://europrospects.eu/from-empire-to-eclipse-how-world-war-2-shifted-global-power-from-britain-to-america/](https://europrospects.eu/from-empire-to-eclipse-how-world-war-2-shifted-global-power-from-britain-to-america/ "https://europrospects.eu/from-empire-to-eclipse-how-world-war-2-shifted-global-power-from-britain-to-america/") 
-    
-2. Anglo-American Loan: [https://digitalcommons.georgiasouthern.edu/cgi/viewcontent.cgi?article=1075&context=aujh](https://digitalcommons.georgiasouthern.edu/cgi/viewcontent.cgi?article=1075&amp;context=aujh "https://digitalcommons.georgiasouthern.edu/cgi/viewcontent.cgi?article=1075&amp;context=aujh") 
-    
-3. UK balance of payment problem: [https://ies.princeton.edu/pdf/E6.pdf](https://ies.princeton.edu/pdf/E6.pdf "https://ies.princeton.edu/pdf/E6.pdf") 
-    
-4. What went wrong, IMF constricted by US policy to Fund resources: [https://rosa.uniroma1.it/rosa04/pslquarterlyreview/article/download/10577/10461](https://rosa.uniroma1.it/rosa04/pslquarterlyreview/article/download/10577/10461 "https://rosa.uniroma1.it/rosa04/pslquarterlyreview/article/download/10577/10461") 
-    
-5. Columbia class submarines: [https://news.usni.org/2025/02/20/report-to-congress-on-columbia-class-submarine-program-2](https://news.usni.org/2025/02/20/report-to-congress-on-columbia-class-submarine-program-2 "https://news.usni.org/2025/02/20/report-to-congress-on-columbia-class-submarine-program-2") 
-    
-6. Expansion Plans: [https://www.armyrecognition.com/news/navy-news/2025/us-plans-to-expand-columbia-submarine-fleet-in-response-to-china-and-russia-nuclear-threats](https://www.armyrecognition.com/news/navy-news/2025/us-plans-to-expand-columbia-submarine-fleet-in-response-to-china-and-russia-nuclear-threats "https://www.armyrecognition.com/news/navy-news/2025/us-plans-to-expand-columbia-submarine-fleet-in-response-to-china-and-russia-nuclear-threats") 
-    
-7. Role of IMF: [https://www.bbc.com/news/business-50069765](https://www.bbc.com/news/business-50069765 "https://www.bbc.com/news/business-50069765") 
-    
-8. Collapse is normal: [https://www.bbc.com/future/article/20190218-are-we-on-the-road-to-civilisation-collapse](https://www.bbc.com/future/article/20190218-are-we-on-the-road-to-civilisation-collapse "https://www.bbc.com/future/article/20190218-are-we-on-the-road-to-civilisation-collapse")

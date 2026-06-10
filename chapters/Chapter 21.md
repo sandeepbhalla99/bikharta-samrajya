@@ -125,17 +125,3 @@
 उस सभी व्यवस्थागत विफलता के नीचे सोवियत संघ के सामान्य नागरिकों की पीड़ा थी। मुद्रास्फीति ने सब कुछ औसत व्यक्ति की पहुँच से बाहर कर दिया, बिना उनकी किसी गलती के। नागरिकों को निर्धन रखना एक ऐसी नीति है जिसे अनेक राज्य अपनाते हैं, किंतु वे उन नागरिकों को भावनाओं से आवेशित रखते हैं। वह भावना विचारधारा की हो सकती है या धर्म की। क्या अमेरिका में यही हो रहा है?
 
 अमेरिका नागरिक निर्धनता की उस दहलीज पर है जो सबके सामने छुपी है। पिछले दशक में डॉलर के मूल्य का क्षरण अभूतपूर्व रहा है। दैनिक आवश्यकता की वस्तुओं की कीमतें अभूतपूर्व रूप से बढ़ी हैं। किंतु एक सामान्य मौन है क्योंकि अमेरिका घोषणा करता है कि उसके नागरिक $85,000 से अधिक प्रति व्यक्ति आय के साथ समृद्ध हैं। दुर्भाग्य से वास्तविकता भिन्न है। इसकी चर्चा "समृद्ध साम्राज्य में निर्धनता" शीर्षक अगले अध्याय में की गई है।
-
-References:
-
-1. The Coup: [https://nsarchive2.gwu.edu/NSAEBB/NSAEBB357/index.htm](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB357/index.htm "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB357/index.htm")
-    
-2. Putin’s “Russia at the Turn of the Millennium” (Full transcript): [https://pages.uoregon.edu/kimball/Putin.htm](https://pages.uoregon.edu/kimball/Putin.htm "https://pages.uoregon.edu/kimball/Putin.htm")
-    
-3. Putin’s New Year Address, December 31, 1999 (Kremlin official transcript): [http://www.en.kremlin.ru/events/president/transcripts/22280](http://www.en.kremlin.ru/events/president/transcripts/22280 "http://www.en.kremlin.ru/events/president/transcripts/22280")
-    
-4. Khodorkovsky trial report (legal proceedings and context): [https://www.advokatsamfundet.se/globalassets/advokatsamfundet_sv/nyheter/khodorkovsky-report-sept-2011.pdf](https://www.advokatsamfundet.se/globalassets/advokatsamfundet_sv/nyheter/khodorkovsky-report-sept-2011.pdf "https://www.advokatsamfundet.se/globalassets/advokatsamfundet_sv/nyheter/khodorkovsky-report-sept-2011.pdf")
-    
-5. RSF report on media and oligarchs (details on state intervention and Gazprom’s role): [https://rsf.org/sites/default/files/2016-rsf-report-media-oligarchs-gpo-shopping.pdf](https://rsf.org/sites/default/files/2016-rsf-report-media-oligarchs-gpo-shopping.pdf "https://rsf.org/sites/default/files/2016-rsf-report-media-oligarchs-gpo-shopping.pdf")
-    
-6. US-Russia diplomatic cables via RFE/RL’s Wikileaks coverage: [https://www.rferl.org/a/leaked_diplomatic_cables_us_russia_wikileaks/2234136.html](https://www.rferl.org/a/leaked_diplomatic_cables_us_russia_wikileaks/2234136.html "https://www.rferl.org/a/leaked_diplomatic_cables_us_russia_wikileaks/2234136.html")

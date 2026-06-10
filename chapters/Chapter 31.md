@@ -118,31 +118,3 @@
 जैसा पहले कहा गया, साम्राज्यों को बचाने का दावा करने वाले लोग अक्सर उनकी मौत का घातक प्रहार करने वाले होते हैं। क्या वे अमेरिका को फिर महान बनाएँगे? विडंबना काव्यात्मक है और लगता है सार्वभौमिक भी।
 
 प्राचीन भारतीय रणनीतिक चिंतन, जो संस्कृत में दर्ज है, ने इसी पैटर्न को हज़ारों वर्ष पहले पहचान लिया था। धार्मिक दृष्टिकोण ने तीन-चरण वाले पतन को अलग शब्दावली में पहचाना, लेकिन तंत्र बिलकुल वही है। अगले अध्याय में हम देखेंगे कि प्राचीन ज्ञान इस घटना की पुष्टि कैसे करता है।
-
-**References**:
-
-1. Factors leading to the collapse of empires and civilizations throughout history including war, environmental challenges, economic troubles, internal decay, and disease: [https://www.thearchaeologist.org/blog/why-empires-and-civilizations-collapse-a-look-at-the-factors-leading-to-societal-collapse](https://www.thearchaeologist.org/blog/why-empires-and-civilizations-collapse-a-look-at-the-factors-leading-to-societal-collapse "https://www.thearchaeologist.org/blog/why-empires-and-civilizations-collapse-a-look-at-the-factors-leading-to-societal-collapse")
-    
-2. Why great empires collapse with cautionary insight for modern societies facing similar vulnerabilities (Medium): [https://medium.com/@historyknow/why-every-great-empire-collapses-and-are-we-next-512459d3fcfe](https://medium.com/@historyknow/why-every-great-empire-collapses-and-are-we-next-512459d3fcfe "https://medium.com/@historyknow/why-every-great-empire-collapses-and-are-we-next-512459d3fcfe")
-    
-3. Fall of the Roman Empire, outlining internal corruption, division, and external invasions as key causes: [https://www.sciencenewstoday.org/the-fall-of-rome-why-the-empire-collapsed](https://www.sciencenewstoday.org/the-fall-of-rome-why-the-empire-collapsed "https://www.sciencenewstoday.org/the-fall-of-rome-why-the-empire-collapsed")
-    
-4. Fall of empires emphasizing patterns of power, social cohesion, and environmental stresses: [https://festivaltopia.com/the-rise-and-fall-of-empires-why-even-the-most-powerful-civilizations-crumble/](https://festivaltopia.com/the-rise-and-fall-of-empires-why-even-the-most-powerful-civilizations-crumble/ "https://festivaltopia.com/the-rise-and-fall-of-empires-why-even-the-most-powerful-civilizations-crumble/")
-    
-5. Invasion, financial strain, environmental challenges, and social disintegration as reasons empires collapse: [https://www.oerproject.com/World-History-Origins/Unit-5/Why-do-Empires-Collapse](https://www.oerproject.com/World-History-Origins/Unit-5/Why-do-Empires-Collapse "https://www.oerproject.com/World-History-Origins/Unit-5/Why-do-Empires-Collapse")
-    
-6. Economic, social, cultural, and environmental causes behind the rise and fall of empires globally: [https://www.khanacademy.org/humanities/world-history/ancient-medieval/classical-states-and-empires/a/rise-and-fall-of-empires](https://www.khanacademy.org/humanities/world-history/ancient-medieval/classical-states-and-empires/a/rise-and-fall-of-empires "https://www.khanacademy.org/humanities/world-history/ancient-medieval/classical-states-and-empires/a/rise-and-fall-of-empires")
-    
-7. Multiple factors including migration and internal strife in Rome’s collapse: [https://www.reddit.com/r/history/comments/kwtxo7/the_fall_of_the_roman_empire_was_due_to_many/](https://www.reddit.com/r/history/comments/kwtxo7/the_fall_of_the_roman_empire_was_due_to_many/ "https://www.reddit.com/r/history/comments/kwtxo7/the_fall_of_the_roman_empire_was_due_to_many/")
-    
-8. Communication breakdown, military logistics, and political motives driving the rise and fall of empires: [https://www.thebritishacademy.ac.uk/blog/forces-and-motives-cause-rise-and-fall-empires/](https://www.thebritishacademy.ac.uk/blog/forces-and-motives-cause-rise-and-fall-empires/ "https://www.thebritishacademy.ac.uk/blog/forces-and-motives-cause-rise-and-fall-empires/")
-    
-9. Population dynamics and socio-political-economic transformations in the decline of the Roman Empire: [https://papers.ssrn.com/sol3/Delivery.cfm/5343457.pdf?abstractid=5343457&mirid=1](https://papers.ssrn.com/sol3/Delivery.cfm/5343457.pdf?abstractid=5343457&amp;mirid=1 "https://papers.ssrn.com/sol3/Delivery.cfm/5343457.pdf?abstractid=5343457&amp;mirid=1")
-    
-10. Societal collapse theories and models across history: [https://www.sciencedirect.com/science/article/pii/S0016328722001768](https://www.sciencedirect.com/science/article/pii/S0016328722001768 "https://www.sciencedirect.com/science/article/pii/S0016328722001768")
-    
-11. Sociological and historical analysis on causes of disintegration and fall of empires: [https://www.cambridge.org/core/journals/diogenes/article/causes-of-disintegration-and-fall-of-empires-sociological-and-historical-analyses/449DA6EC217952BF90E9AAC02B2FB853](https://www.cambridge.org/core/journals/diogenes/article/causes-of-disintegration-and-fall-of-empires-sociological-and-historical-analyses/449DA6EC217952BF90E9AAC02B2FB853 "https://www.cambridge.org/core/journals/diogenes/article/causes-of-disintegration-and-fall-of-empires-sociological-and-historical-analyses/449DA6EC217952BF90E9AAC02B2FB853")
-    
-12. Historical collapse and societal breakdown: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3309742/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3309742/ "https://pmc.ncbi.nlm.nih.gov/articles/PMC3309742/")
-    
-13. Moments and multifaceted causes behind the fall of the Roman Empire including political, economic, and military aspects: [https://www.jetir.org/papers/JETIR2501061.pdf](https://www.jetir.org/papers/JETIR2501061.pdf "https://www.jetir.org/papers/JETIR2501061.pdf")
