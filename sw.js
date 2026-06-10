@@ -1,4 +1,4 @@
-const CACHE_NAME = 'bikharta-samrajya-cache-v55';
+const CACHE_NAME = 'bikharta-samrajya-cache-v56';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
@@ -93,20 +93,18 @@ self.addEventListener('activate', event => {
   );
 });
 
-// --- Fetch Event (Cache First, Network Fallback) ---
+// --- Fetch Event (Network First, Cache Fallback) ---
 self.addEventListener('fetch', event => {
-  // Avoid intercepting browser extension requests or chrome-extension:// schemes
-  if (!event.request.url.startsWith(self.location.origin) && !event.request.url.startsWith('https://cdn.jsdelivr.net') && !event.request.url.startsWith('https://fonts.googleapis.com')) {
+  // Avoid intercepting browser extension requests or schemes that are not HTTP(S)
+  if (!event.request.url.startsWith(self.location.origin) && 
+      !event.request.url.startsWith('https://cdn.jsdelivr.net') && 
+      !event.request.url.startsWith('https://fonts.googleapis.com')) {
     return;
   }
 
   event.respondWith(
-    caches.match(event.request).then(cachedResponse => {
-      if (cachedResponse) {
-        return cachedResponse;
-      }
-
-      return fetch(event.request).then(networkResponse => {
+    fetch(event.request)
+      .then(networkResponse => {
         // Cache the newly fetched file dynamically
         if (networkResponse && networkResponse.status === 200) {
           const responseToCache = networkResponse.clone();
@@ -115,10 +113,10 @@ self.addEventListener('fetch', event => {
           });
         }
         return networkResponse;
-      }).catch(err => {
-        // Fallback for offline if not found in cache
-        console.error('Fetch failed, offline fallback triggered:', err);
-      });
-    })
+      })
+      .catch(() => {
+        // Fallback to cache if network fails (offline)
+        return caches.match(event.request);
+      })
   );
 });
