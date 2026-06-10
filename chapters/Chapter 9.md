@@ -141,23 +141,3 @@
 * **अंतरराष्ट्रीय वित्तीय संस्थान (IMF & World Bank):** आईएमएफ यूक्रेन को कड़ी शर्तों पर कर्ज दे रहा है, जिसका भुगतान अंततः यूक्रेन के गरीब करदाताओं को अपनी जेब से करना होगा।
 * **कमोडिटी ट्रेडर्स (Commodity Traders):** कच्चे तेल, गैस, अनाज और उर्वरकों की कीमतों में उतार-चढ़ाव से भारी मुनाफा कमाने वाले बिचौलिए।
 * **प्राइवेट फंड्स (Hedge Funds):** यूक्रेन की तबाही का फायदा उठाकर उसकी कौड़ियों के दाम मिल रही संपत्तियों और कर्ज को खरीदने वाले शातिर इन्वेस्टर्स।
-
-**References**:
-
-1. PBS – _The Great War: How World War I Turned the U.S. Into a World Economic Superpower_[https://www.pbs.org/wgbh/americanexperience/features/the-great-war-economic-superpower/](https://www.pbs.org/wgbh/americanexperience/features/the-great-war-economic-superpower/ "https://www.pbs.org/wgbh/americanexperience/features/the-great-war-economic-superpower/")
-    
-2. ProQuest – _The United States, Neutrality, and the Anglo-French Loan of 1915_[https://www.proquest.com/docview/274387072](https://www.proquest.com/docview/274387072 "https://www.proquest.com/docview/274387072")
-    
-3. Cambridge University Press – _A Private Bank at War: J.P. Morgan & Co. and France, 1914–1918_[https://www.cambridge.org/core/journals/business-history-review/article/private-bank-at-war-jp-morgan-co-and-france-19141918/6C62E2400476C7565DF288B19F04756A](https://www.cambridge.org/core/journals/business-history-review/article/private-bank-at-war-jp-morgan-co-and-france-19141918/6C62E2400476C7565DF288B19F04756A "https://www.cambridge.org/core/journals/business-history-review/article/private-bank-at-war-jp-morgan-co-and-france-19141918/6C62E2400476C7565DF288B19F04756A")
-    
-4. Taylor & Francis – _Financial History of the United States_ (chapter on World War I finance)[https://www.taylorfrancis.com/chapters/mono/10.4324/9781003247104-6/world-war-jerry-markham](https://www.taylorfrancis.com/chapters/mono/10.4324/9781003247104-6/world-war-jerry-markham "https://www.taylorfrancis.com/chapters/mono/10.4324/9781003247104-6/world-war-jerry-markham")
-    
-5. 1914-1918 Online – _War Finance_[https://encyclopedia.1914-1918-online.net/article/war_finance](https://encyclopedia.1914-1918-online.net/article/war_finance "https://encyclopedia.1914-1918-online.net/article/war_finance")
-    
-6. Statista – _Treaty of Versailles: Financial Reparations_[https://www.statista.com/statistics/1086868/treaty-versailles-financial-reparations-to-reparations-commission/](https://www.statista.com/statistics/1086868/treaty-versailles-financial-reparations-to-reparations-commission/ "https://www.statista.com/statistics/1086868/treaty-versailles-financial-reparations-to-reparations-commission/")
-    
-7. History.com – _Germany’s World War I Debt_[https://www.history.com/news/germany-world-war-i-debt-treaty-versailles](https://www.history.com/news/germany-world-war-i-debt-treaty-versailles "https://www.history.com/news/germany-world-war-i-debt-treaty-versailles")
-    
-8. An agreement with BlackRock Financial Market Advisory on providing support services to the Ukraine Development Fund [An agreement with BlackRock Financial Market Advisory on providing support services to the Ukraine Development Fund achieved on the highest state level - UkraineInvest](https://ukraineinvest.gov.ua/en/news/09-05-2023-2/ "https://ukraineinvest.gov.ua/en/news/09-05-2023-2/")
-    
-9. IMF Executive Board Approves US$15.6 Billion under a New Extended Fund Facility (EFF) Arrangement for Ukraine [The IMF Board approved a new 48-month extended arrangement under the Extended Fund Facility (EFF) of SDR 11.6 billion (about US$15.6 billion) as part of a US$115 billion total support package for Ukraine.](https://www.imf.org/en/News/Articles/2023/03/31/pr23101-ukraine-imf-executive-board-approves-usd-billion-new-eff-part-of-overall-support-package "https://www.imf.org/en/News/Articles/2023/03/31/pr23101-ukraine-imf-executive-board-approves-usd-billion-new-eff-part-of-overall-support-package")

@@ -113,25 +113,3 @@ IMF के अनुच्छेद स्पष्ट थे। अनुच्
 क्या इतिहास के सबसे शक्तिशाली साम्राज्य का निर्माण दूरद्रष्टाओं ने नहीं किया? क्या यह राजनीतिक दहशत से जन्मा और ऐसे विशेषज्ञों द्वारा गढ़ा गया जो भविष्य नहीं देख सकते थे? क्या इसे एक ऐसे व्यक्ति ने क्रियान्वित किया जो केवल अपना अगला चुनाव जीवित निकालना चाहता था? कभी-कभी इतिहास के सबसे बड़े निर्णय ऐसे लोग लेते हैं जिन्हें यह एहसास भी नहीं होता कि वे इतिहास बना रहे हैं।
 
 आज हम उन्हीं परिणामों के साथ जी रहे हैं। 37 खरब डॉलर का ऋण बढ़ता जा रहा है। निक्सन द्वारा आकस्मिक रूप से बनाई गई प्रणाली में दरारें दिखने लगी हैं। ऋण को नियंत्रित करने के कांग्रेस के समस्त प्रयास विफल रहे हैं। अगले अध्याय में हम इन प्रयासों का विश्लेषण करेंगे।
-
-**References**:
-
-1. Nixon’s August 15, 1971 Address (Miller Center, University of Virginia):[https://millercenter.org/the-presidency/presidential-speeches/august-15-1971-address-nation](https://millercenter.org/the-presidency/presidential-speeches/august-15-1971-address-nation "https://millercenter.org/the-presidency/presidential-speeches/august-15-1971-address-nation")
-    
-2. _The Memoirs of Richard Nixon__. New York: Grosset & Dunlap, 1978._
-    
-3. _Federal Reserve History – “Nixon Ends Convertibility of US Dollars to Gold and Announces Wage/Price Controls”:_[_https://www.federalreservehistory.org/essays/gold-convertibility-ends_](https://www.federalreservehistory.org/essays/gold-convertibility-ends "https://www.federalreservehistory.org/essays/gold-convertibility-ends")
-    
-4. _IMF Articles of Agreement (full text):_[_https://www.imf.org/external/pubs/ft/aa/index.htm_](https://www.imf.org/external/pubs/ft/aa/index.htm "https://www.imf.org/external/pubs/ft/aa/index.htm")
-    
-5. _IMF History – Jamaica Accords (1976 reform of Bretton Woods):_[_https://www.imf.org/en/About/Factsheets/IMF-History_](https://www.imf.org/en/About/Factsheets/IMF-History "https://www.imf.org/en/About/Factsheets/IMF-History")
-    
-6. _U.S. State Department, Office of the Historian – “Nixon and the End of Bretton Woods”:_[_https://history.state.gov/milestones/1969-1976/nixon-shock_](https://history.state.gov/milestones/1969-1976/nixon-shock "https://history.state.gov/milestones/1969-1976/nixon-shock")
-    
-7. _NBER Working Paper – Barry Eichengreen & Jeffrey Frankel,_ _The Nixon Shock after Forty Years__:_[_https://www.nber.org/papers/w17855_](https://www.nber.org/papers/w17855 "https://www.nber.org/papers/w17855")
-    
-8. _St. Louis Fed Review – Michael Bordo, “The Bretton Woods International Monetary System: A Historical Overview”:_[_https://research.stlouisfed.org/publications/review/1993/03/01/the-bretton-woods-international-monetary-system-a-historical-overview_](https://research.stlouisfed.org/publications/review/1993/03/01/the-bretton-woods-international-monetary-system-a-historical-overview "https://research.stlouisfed.org/publications/review/1993/03/01/the-bretton-woods-international-monetary-system-a-historical-overview")
-    
-9. _Robert Triffin’s analysis of reserve/gold mismatch (via Yale University Library archive of_ _Gold and the Dollar Crisis__, 1960):_[_https://elischolar.library.yale.edu/book/73_](https://elischolar.library.yale.edu/book/73 "https://elischolar.library.yale.edu/book/73")
-    
-10. _Pillsbury, Michael._ _The Hundred-Year Marathon: China's Secret Strategy to Replace America as the Global Superpower__. New York: St. Martin's Press, 2015._

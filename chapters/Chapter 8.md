@@ -132,33 +132,3 @@
 अमेरिका पूरी दुनिया को संप्रभुता का उपदेश देता है, लेकिन खुद दूसरों के चुनावों में दखल देने से बाज नहीं आता। वह लोकतंत्र की बात करता है, लेकिन खुद संसद को दरकिनार कर केवल राष्ट्रपति के कागजी आदेशों के बल पर फैसले लेता है। वह दूसरों के हस्तक्षेप का विरोध करता है, लेकिन खुद सीआईए (CIA) के जरिए दूसरे देशों की सरकारें बदलवाता है। वह युद्ध का विरोध करने का नाटक करता है, लेकिन जंग लड़ रहे देशों को अरबों के हथियार बेचता है। अमेरिका का यह दोहरा रवैया हर सदी में बिल्कुल एक जैसा रहा है—अपनी विस्तारवादी नीतियों और रणनीतिक फायदों को सुंदर और नैतिक भाषा के पीछे छुपाना!
 
 नुस्खा वही है, बस सदी नई है। आइए, अब पिछली सदी के उन युद्धों पर नजर डालते हैं ताकि हम आज की घटनाओं से उनकी तुलना कर सकें।
-
-**References**:
-
-1. [https://crsreports.congress.gov/product/pdf/IF/IF12040](https://crsreports.congress.gov/product/pdf/IF/IF12040 "https://crsreports.congress.gov/product/pdf/IF/IF12040")
-    
-2. [https://www.state.gov/u-s-security-cooperation-with-ukraine/](https://www.state.gov/u-s-security-cooperation-with-ukraine/ "https://www.state.gov/u-s-security-cooperation-with-ukraine/")
-    
-3. [https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/29/fact-sheet-u-s-support-for-ukraine/](https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/29/fact-sheet-u-s-support-for-ukraine/ "https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/29/fact-sheet-u-s-support-for-ukraine/")
-    
-4. [https://www.reuters.com/world/us-has-given-ukraine-more-than-75-billion-aid-since-2022-2024-05-23/](https://www.reuters.com/world/us-has-given-ukraine-more-than-75-billion-aid-since-2022-2024-05-23/ "https://www.reuters.com/world/us-has-given-ukraine-more-than-75-billion-aid-since-2022-2024-05-23/")
-    
-5. [https://www.nytimes.com/2025/08/27/business/india-tariffs-trump-russia-oil.html](https://www.nytimes.com/2025/08/27/business/india-tariffs-trump-russia-oil.html "https://www.nytimes.com/2025/08/27/business/india-tariffs-trump-russia-oil.html")
-    
-6. [https://www.theguardian.com/us-news/2025/aug/27/trump-tariff-india-russian-oil-purchase](https://www.theguardian.com/us-news/2025/aug/27/trump-tariff-india-russian-oil-purchase "https://www.theguardian.com/us-news/2025/aug/27/trump-tariff-india-russian-oil-purchase") 
-    
-7. [https://economictimes.indiatimes.com/news/international/world-news/ukraines-goal-is-akin-to-pakistans-approach-towards-russia-indian-origin-lawmaker/articleshow/91895527.cms](https://economictimes.indiatimes.com/news/international/world-news/ukraines-goal-is-akin-to-pakistans-approach-towards-russia-indian-origin-lawmaker/articleshow/91895527.cms "https://economictimes.indiatimes.com/news/international/world-news/ukraines-goal-is-akin-to-pakistans-approach-towards-russia-indian-origin-lawmaker/articleshow/91895527.cms")
-    
-8. Ukrainian Language: [https://sandeepbhalla.in/comparison-of-russian-and-ukrainian-languages/](https://sandeepbhalla.in/comparison-of-russian-and-ukrainian-languages/ "https://sandeepbhalla.in/comparison-of-russian-and-ukrainian-languages/") 
-    
-9. [https://www.war.gov/News/News-Stories/Article/Article/3304356/biden-ukraine-will-never-be-a-victory-for-russia-never/](https://www.war.gov/News/News-Stories/Article/Article/3304356/biden-ukraine-will-never-be-a-victory-for-russia-never/ "https://www.war.gov/News/News-Stories/Article/Article/3304356/biden-ukraine-will-never-be-a-victory-for-russia-never/")
-    
-10. [https://www.reuters.com/idUSBREA151VA](https://www.reuters.com/idUSBREA151VA "https://www.reuters.com/idUSBREA151VA")
-    
-11. Civil War in Sudan | Global Conflict Tracker [https://www.cfr.org/global-conflict-tracker/conflict/power-struggle-sudan](https://www.cfr.org/global-conflict-tracker/conflict/power-struggle-sudan "https://www.cfr.org/global-conflict-tracker/conflict/power-struggle-sudan")
-    
-12. War in Sudan: Humanitarian, fighting, control developments (Al Jazeera) [https://www.aljazeera.com/features/2025/9/30/war-in-sudan-humanitarian-fighting-control-developments-september-2025](https://www.aljazeera.com/features/2025/9/30/war-in-sudan-humanitarian-fighting-control-developments-september-2025 "https://www.aljazeera.com/features/2025/9/30/war-in-sudan-humanitarian-fighting-control-developments-september-2025")
-    
-13. Sudan Conflict - UN News [https://news.un.org/en/focus/sudan-conflict](https://news.un.org/en/focus/sudan-conflict "https://news.un.org/en/focus/sudan-conflict")
-    
-14. Sudan's War Is the Shape of Things to Come (Crisis Group) [https://www.crisisgroup.org/africa/sudan/sudans-war-shape-things-come](https://www.crisisgroup.org/africa/sudan/sudans-war-shape-things-come "https://www.crisisgroup.org/africa/sudan/sudans-war-shape-things-come")

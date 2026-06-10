@@ -129,24 +129,3 @@
 इस नए गणराज्य के सामने शुरुआत में कई बड़ी मुश्किलें आईं। हैमिल्टन की आर्थिक नीतियों ने देश की साख तो सुधारी, लेकिन इस पर जमकर राजनीति भी हुई। टैक्स के खिलाफ हुए 'व्हिस्की विद्रोह' (Whiskey Rebellion) ने केंद्र सरकार की ताकत की परीक्षा ली, और यूरोप की जंगों ने अमेरिका की निष्पक्ष रहने की नीति को खतरे में डाला।
 
 लेकिन अब अमेरिका के पास एक ऐसी सरकार थी जो सचमुच देश चला सकती थी। इसके पहले राष्ट्रपति एक बेमिसाल शख्सियत थे, उन्होंने ऐसी नीतियां बनाईं जिनका असर अमेरिका पर सदियों तक रहा—और कुछ नीतियां तो आज भी लागू हैं। अगले चैप्टर में हम अमेरिका के इसी पहले राष्ट्रपति के बारे में जानेंगे।
-
-References:
-1. The Declaration of Independence (1776) National Archives, Founders Online - Full text of the founding document declaring American independence from Britain
-    
-2. Articles of Confederation (1781) National Archives, Historical Documents - Complete text of America's first governing document
-    
-3. Constitution of the United States (1787) National Archives, Charters of Freedom - Original constitutional text with amendments
-    
-4. Treaty of Paris (1783) U.S. State Department, Treaties and Other International Agreements - Official treaty ending the Revolutionary War
-    
-5. George Washington's Farewell Address (1796) Library of Congress, Presidential Papers - Washington's warning against political parties and foreign entanglements
-    
-6. First Continental Congress Resolutions (1774) Library of Congress, Continental Congress Papers - Colonial responses to British Coercive Acts
-    
-7. Second Continental Congress Proceedings (1775-1789) Library of Congress, Continental Congress Papers - Records of America's governing body during revolution and confederation
-    
-8. Federalist Papers (1787-1788) Library of Congress, Hamilton Papers - Hamilton, Madison, and Jay's defense of the Constitution
-    
-9. Anti-Federalist Papers (1787-1788) University of Chicago Press, Documentary History - Opposition arguments against constitutional ratification
-    
-10. US Senate passed a resolution (vote: 52-48) to end the tariffs imposed on Brazilian imports (including beef, coffee etc.): https://www.theguardian.com/us-news/2025/oct/28/us-senate-trump-tariffs-brazil

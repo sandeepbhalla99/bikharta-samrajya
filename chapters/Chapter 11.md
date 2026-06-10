@@ -80,13 +80,3 @@
 कागजी साम्राज्य किसी भी भूभागीय साम्राज्य से अधिक टिकाऊ सिद्ध हुआ क्योंकि इसने प्रतिरोध को असंभव और अनैतिक दोनों दिखाया। विश्व ने नए साम्राज्य के सामने विजय के माध्यम से नहीं बल्कि स्पष्ट सहयोग के माध्यम से समर्पण किया। इसने ऐसी नियंत्रण प्रणाली बनाई जो पूर्ववर्ती किसी भी साम्राज्य से अधिक संपूर्ण थी जबकि अपनी प्रजा के लिए स्वतंत्रता और संप्रभुता का आवरण बनाए रखा। यह तब तक था जब 2025 में राष्ट्रपति ट्रंप ने लोहे की मुट्ठी से मखमली आवरण हटा दिया किंतु वह लोहा अब दूसरों का गला घोंटने के लिए बहुत जंग खा चुका है।
 
 सोवियत पायरिक असहमति (Pyrrhic dissent): पूर्वी यूरोप में भूभागीय लाभ के बावजूद सोवियत संघ जिसने लाखों लोगों की जानें गंवाई थीं अब एक ऐसे अमेरिका के सामने था जिसके पास परमाणु हथियार, अक्षुण्ण औद्योगिक क्षमता और वैश्विक वित्त पर नियंत्रण था। वह अमेरिकी साम्राज्य की स्वीकृति पर असहमति जताने वाला एकमात्र स्वर बना रहा। शीत युद्ध इसी अमेरिकी लाभ की स्थिति से शुरू हुआ। सोवियत संघ बाद में अपने ही बोझ तले ढह गया जिस पर हम एक बाद के अध्याय में विचार करेंगे। किंतु उससे पहले हमें साम्राज्य के निर्माण के अगले चरण को समझना होगा — सोने में भुगतान की बाध्यता से मुक्ति।
-
-
-
-**References**:
-
-1. Articles of Agreement of the International Monetary Fund [https://www.imf.org/external/pubs/ft/aa/index.htm](https://www.imf.org/external/pubs/ft/aa/index.htm "https://www.imf.org/external/pubs/ft/aa/index.htm")
-    
-2. Hiroshima and Nagasaki Bombing: [https://www.historyextra.com/period/second-world-war/atomic-bomb-hiroshima-nagasaki-justified-us-debate-bombs-death-toll-japan-how-many-died-nuclear/](https://www.historyextra.com/period/second-world-war/atomic-bomb-hiroshima-nagasaki-justified-us-debate-bombs-death-toll-japan-how-many-died-nuclear/ "https://www.historyextra.com/period/second-world-war/atomic-bomb-hiroshima-nagasaki-justified-us-debate-bombs-death-toll-japan-how-many-died-nuclear/")
-    
-3. [https://www.explorehiroshima.jp/post/was-the-atomic-bomb-justified-a-controversial-debate](https://www.explorehiroshima.jp/post/was-the-atomic-bomb-justified-a-controversial-debate "https://www.explorehiroshima.jp/post/was-the-atomic-bomb-justified-a-controversial-debate")

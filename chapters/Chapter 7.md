@@ -119,25 +119,3 @@
 स्वतंत्रता की घोषणा करते हुए गुलामी प्रथा को जारी रखने का पाखंड हो या "प्रकट नियति" का धार्मिक छलावा, यह सब कोई पुरानी बात नहीं है। यह अमेरिकी साम्राज्य का वह सच है जो आज भी दुनिया के सामने उसकी विश्वसनीयता पर सवाल खड़ा करता है।
 
 और यह पाखंड यहीं खत्म नहीं होने वाला था। यह अगली पूरी सदी तक जारी रहा। आइए, अब २०२५ के वर्तमान में वापस चलते हैं, जहां यूरोप में यूक्रेन की जंग ने पूरी दुनिया को हिला रखा है।
-
-**References**:
-
-1. Treaty of Guadalupe Hidalgo (1848) U.S. State Department, Treaty Affairs - Peace treaty ending the Mexican-American War
-    
-2. Oregon Treaty (1846) British Parliamentary Papers, Foreign Office - Boundary agreement between the United States and Britain
-    
-3. Alaska Purchase Treaty (1867) U.S. State Department, Historical Office - Sale agreement transferring Alaska from Russia to United States
-    
-4. Indian Removal Act (1830) Library of Congress, Congressional Records - Legislation authorizing forced relocation of Native American tribes
-    
-5. Cherokee Nation v. Georgia (1831) Supreme Court Records, Legal Archives - Court case regarding Cherokee tribal sovereignty
-    
-6. Worcester v. Georgia (1832) Supreme Court Records, Legal Archives - Marshall Court decision on state authority over tribal affairs
-    
-7. James K. Polk's War Message to Congress (1846) Library of Congress, Presidential Papers - Presidential justification for Mexican-American War
-    
-8. Treaty of Dancing Rabbit Creek (1830) National Archives, Indian Treaties - Choctaw removal agreement
-    
-9. Fort Laramie Treaty (1851) National Archives, Indian Treaties - Agreement with Plains Indian tribes
-    
-10. General Winfield Scott's Mexico City Campaign Records (1847) U.S. Army Military History Institute - Military correspondence and battle reports
