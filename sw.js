@@ -1,4 +1,4 @@
-const CACHE_NAME = 'bikharta-samrajya-cache-v22';
+const CACHE_NAME = 'bikharta-samrajya-cache-v24';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
