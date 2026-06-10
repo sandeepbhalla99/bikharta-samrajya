@@ -1,4 +1,4 @@
-const CACHE_NAME = 'bikharta-samrajya-cache-v18';
+const CACHE_NAME = 'bikharta-samrajya-cache-v19';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
@@ -57,7 +57,8 @@ const ASSETS_TO_CACHE = [
   './chapters/Chapter 41.md',
   './chapters/Chapter 42.md',
   './chapters/Chapter 43.md',
-  './chapters/Chapter 44.md'
+  './chapters/Chapter 44.md',
+  './chapters/Bibliography.md'
 ];
 
 // --- Install Service Worker ---

@@ -49,5 +49,6 @@ longform:
     - Chapter 42
     - Chapter 43
     - Chapter 44
+    - Bibliography
   ignoredFiles: []
 ---

@@ -62,8 +62,19 @@ document.addEventListener('DOMContentLoaded', () => {
     "Chapter 41": "परिपूर्ण बुलबुला",
     "Chapter 42": "काले बादल",
     "Chapter 43": "राष्ट्र पुनर्निर्माण",
-    "Chapter 44": "उपसंहार"
+    "Chapter 44": "उपसंहार",
+    "Bibliography": "संदर्भ सूची"
   };
+
+  function getChapterLabel(index) {
+    if (index === 0) return "Preface";
+    if (index === 1) return "Explanatory Note";
+    if (index === 2) return "Prologue";
+    if (index >= 3 && index <= 42) return "Chapter " + (index - 2);
+    if (index === 43) return "Epilogue";
+    if (index === 44) return "Bibliography";
+    return "";
+  }
 
   // --- App State ---
   let chapters = [];
@@ -177,7 +188,7 @@ document.addEventListener('DOMContentLoaded', () => {
       item.innerHTML = `
         <span style="display: flex; flex-direction: column; gap: 0.15rem;">
           <span style="font-size: 0.72rem; color: var(--accent-gold); text-transform: uppercase; font-family: var(--font-sans); letter-spacing: 0.5px;">
-            ${originalIndex === 0 ? 'Introduction' : 'Chapter ' + originalIndex}
+            ${getChapterLabel(originalIndex)}
           </span>
           <span style="font-weight: 500; line-height: 1.3;">${titleText}</span>
         </span>
@@ -265,7 +276,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const titleText = chapterTitles[ch] || ch;
       return `
         <div class="toc-card" data-chapter="${encodeURIComponent(ch)}">
-          <span class="toc-card-number">${i === 0 ? 'INTRODUCTION' : 'CHAPTER ' + i}</span>
+          <span class="toc-card-number">${getChapterLabel(i)}</span>
           <span class="toc-card-title">${titleText}</span>
         </div>
       `;
@@ -363,13 +374,13 @@ document.addEventListener('DOMContentLoaded', () => {
           <div class="reader-nav">
             ${prevChapter ? `
               <a href="#${encodeURIComponent(prevChapter)}" class="btn-nav btn-nav-prev">
-                <span class="btn-nav-label">&larr; ${index - 1 === 0 ? 'Introduction' : 'Chapter ' + (index - 1)}</span>
+                <span class="btn-nav-label">&larr; ${getChapterLabel(index - 1)}</span>
                 <span class="btn-nav-title">${chapterTitles[prevChapter] || prevChapter}</span>
               </a>
             ` : '<div></div>'}
             ${nextChapter ? `
               <a href="#${encodeURIComponent(nextChapter)}" class="btn-nav btn-nav-next">
-                <span class="btn-nav-label">${index + 1 === 0 ? 'Introduction' : 'Chapter ' + (index + 1)} &rarr;</span>
+                <span class="btn-nav-label">${getChapterLabel(index + 1)} &rarr;</span>
                 <span class="btn-nav-title">${chapterTitles[nextChapter] || nextChapter}</span>
               </a>
             ` : '<div></div>'}
