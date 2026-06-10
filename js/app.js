@@ -19,9 +19,9 @@ document.addEventListener('DOMContentLoaded', () => {
   // --- Chapter Title Mapping ---
   // Mapping the raw chapter filename to its clean Hindi/Devanagari title
   const chapterTitles = {
-    "Chapter 1": "प्रस्तावना",
+    "Chapter 1": "प्राक्कथन",
     "Chapter 2": "व्याख्यात्मक टिप्पणी",
-    "Chapter 3": "प्रस्तावना",
+    "Chapter 3": "सूत्रपात",
     "Chapter 4": "भूमिका",
     "Chapter 5": "अमेरिका की नींव और विकास",
     "Chapter 6": "अमेरिका के प्रथम राष्ट्रपति",
