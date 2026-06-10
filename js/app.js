@@ -502,5 +502,60 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Scroll progress throttling
     readerContainer.addEventListener('scroll', updateScrollProgress);
+
+    // Purge and Reload Caches
+    const purgeBtn = document.getElementById('purge-reload-btn');
+    if (purgeBtn) {
+      purgeBtn.addEventListener('click', async () => {
+        const confirmed = confirm("क्या आप मेमोरी साफ़ करके रीलोड करना चाहते हैं?\n\nAre you sure you want to clear memory and reload?");
+        if (confirmed) {
+          try {
+            purgeBtn.disabled = true;
+            purgeBtn.innerHTML = `
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right: 4px; vertical-align: middle; animation: spin 1s linear infinite;">
+                <line x1="12" y1="2" x2="12" y2="6"></line>
+                <line x1="12" y1="18" x2="12" y2="22"></line>
+                <line x1="4.93" y1="4.93" x2="7.76" y2="7.76"></line>
+                <line x1="16.24" y1="16.24" x2="19.07" y2="19.07"></line>
+                <line x1="2" y1="12" x2="6" y2="12"></line>
+                <line x1="18" y1="12" x2="22" y2="12"></line>
+                <line x1="6.34" y1="17.66" x2="8.46" y2="15.54"></line>
+                <line x1="15.54" y1="8.46" x2="17.66" y2="6.34"></line>
+              </svg>
+              साफ़ किया जा रहा है...
+            `;
+            
+            // Unregister Service Workers
+            if ('serviceWorker' in navigator) {
+              const registrations = await navigator.serviceWorker.getRegistrations();
+              for (let registration of registrations) {
+                await registration.unregister();
+              }
+            }
+            
+            // Clear Cache Storage
+            if ('caches' in window) {
+              const keys = await caches.keys();
+              for (let key of keys) {
+                await caches.delete(key);
+              }
+            }
+            
+            // Reload the page
+            window.location.reload(true);
+          } catch (err) {
+            console.error("Purging cache failed:", err);
+            alert("त्रुटि: " + err.message);
+            purgeBtn.disabled = false;
+            purgeBtn.innerHTML = `
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right: 4px; vertical-align: middle;">
+                <path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/>
+              </svg>
+              मेमोरी साफ़ करें (Purge & Reload)
+            `;
+          }
+        }
+      });
+    }
   }
 });
